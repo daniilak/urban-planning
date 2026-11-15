@@ -1,41 +1,37 @@
-# Проверка места и мер
+# Site evidence and intervention records
 
-Читайте при разработке или пересмотре решений.
+Read when developing or revising proposals.
 
-## Основа
+## Base information
 
-Составьте реестр исходных слоёв. Укажите источник, дату, систему координат, точность и условия использования. Отдельно храните границы собственности, зонирование, здания, входы, улицы, тротуары, переходы, остановки, сети, зелень, водоёмы, модель высот и снимки. Если план затрагивает подвалы и защиту людей, храните отдельно подтверждённые сведения об их назначении, владельце, состоянии и доступе. Не открывайте служебные планы и режимы доступа без разрешения. Пустой тег на карте не доказывает отсутствия предмета на месте.
+Keep a register of source layers with each source, date, coordinate system, precision, and terms of use. Keep ownership, zoning, buildings, entrances, streets, sidewalks, crossings, stops, utilities, vegetation, water, elevation models, and photos distinguishable. If the plan affects basements or emergency shelter, record confirmed details about purpose, owner, condition, and access separately and respect disclosure limits. An empty tag does not establish that a feature is absent.
 
-Для важных выводов запишите утверждение, место, источник и способ проверки. Если источники расходятся, покажите разницу. Общее изображение или фото не подтверждает каждую точку территории.
+For important findings record the claim, location, source, and how to verify it. Describe discrepancies between sources. A general image can establish only what it shows.
 
-## Место и размер
+## Location and dimensions
 
-Считайте длину и площадь в метрах с подходящей проекцией или геодезическим расчётом. Сохраняйте исходный контур. Проверьте весь ход линейной меры: входы, переходы, выезды, ступени, свободный проход, снег и уход. Для площадки проверьте доступ, соседние окна, прежние занятия, транспортный проезд и обслуживание. Не выводите ширину улицы из одной осевой линии.
+Measure lengths and areas in meters with an appropriate projection or geodetic calculation. Preserve the source geometry. Inspect the full length of a linear intervention, including entrances, crossings, driveways, steps, clear width, snow, and upkeep. For an area, check access, nearby windows, current uses, vehicle access, and servicing. Name the missing measurements when a feature can only be placed approximately.
 
-Различайте три вывода: объект помещается по карте; объект может поместиться при названных условиях; место пока не установлено. Даже первый вывод не равен строительному чертежу. Не выводите точный уклон, водосток или порог из общей модели высот. При нехватке данных оставьте число открытым и назовите способ его получения в одном месте плана.
+## Connected uses
 
-## Системы и выбор
+Develop a single plan for walking and step-free routes, traffic and deliveries, trees and water, public spaces, courtyards, services, and maintenance. Check where systems overlap. A new facility should preserve fire access, keep runoff away from doors, and account for current users and activities. Assess parts of the area without photos as well as well-documented places.
 
-Соберите отдельные слои пеших и доступных маршрутов, движения машин и доставки, зелени и воды, общественных мест, дворов, услуг и ухода. Проверьте связи между слоями: новая площадка не закрывает пожарный проезд; вода не идёт к входу; тихая зона не теряет прежнюю функцию без замены. Для каждой системы выберите цельное решение, а не случайный набор предметов.
+Start with daily activities such as getting out of the house, crossing, catching transit, playing, resting, shopping, meeting, sports, and events. Mark each activity's start, destination, current route, and obstacle. Use the [intervention catalog](intervention-catalog.md) to choose relevant actions and test their fit.
 
-Перед выбором объектов сделайте перечень повседневных действий: выйти из дома, дойти, перейти, дождаться транспорта, играть, отдохнуть, купить нужное, встретиться, заняться спортом, провести событие. Для каждого действия отметьте места начала и конца, нынешний путь и помеху. Пройдите все части территории, включая места без фотографий. Возьмите подходящие приёмы из [каталога групп](intervention-catalog.md), затем проверьте их по контурам. Не превращайте каталог в обязательный список покупок.
+Build a simple access matrix with areas or major entrances as rows and activities or services as columns. Record network distance, steps and other barriers, opening hours, and fees. Consider a child's trip, an older person's trip, a wheelchair user's trip, and a caregiver's trip with a stroller, including different destinations and barriers. Identify who would still lack access and revise accordingly. Use walking catchments appropriate to the place.
 
-Составьте простую таблицу доступа. В строках будут части территории или важные входы, в столбцах будут нужные занятия и услуги. Запишите длину пути по сети, ступени и иные преграды, часы работы и плату. Отдельно пройдите путь с точки зрения ребёнка, старшего человека, человека с инвалидностью и сопровождающего с коляской. Это не четыре одинаковых маршрута: нужные места и помехи могут различаться. Найдите тех, кто не получает пользы от плана, и измените размещение мер до публикации. Не назначайте один радиус пешего доступа универсальной нормой.
+Check heat, shade, air quality, and noise on paths and where people wait, play, or rest. Use measurements and observations where available. At night, check visibility, exits, lighting, and what regular users report. During adverse weather, check whether services and accessible routes remain open.
 
-Проверьте жару, тень, шум и грязный воздух на путях и в местах ожидания, игры и отдыха. Используйте доступные измерения и наблюдения, не выводите уровень загрязнения или шума из одного снимка. Для вечера запишите видимость, понятность выхода, работу света и слова людей, которые ходят этим путём. Не считайте камеру или фонарь достаточным ответом на страх. Для непогоды проверьте, остаются ли услуги и доступные пути открытыми.
+For emergency shelter, map usable routes to confirmed facilities only. Maintain a separate record of spaces that may be adapted. Check flooding in low areas and the type of protection required for each hazard. Record what owners and authorities still need to confirm.
 
-Для защиты людей при опасности считайте путь только к действующим местам, которые подтвердили ответственные службы. Подвалы для возможного приспособления держите в другом слое. Рядом с водоёмом и в низине отдельно проверьте риск затопления. Если угрозы требуют разных действий, не рисуйте один подвал универсальным ответом. Когда данных о помещении нет, укажите запрос владельцу и службе, а не придумывайте вместимость.
+Combine measures that deliver one result. A route to transit might include firm surfacing, a crossing, lighting, and a boarding area. Data can retain the individual points while the public description explains the connected route. Label a group illustration as a proposal and verify each item's fit separately.
 
-Собирайте меры в связанное предложение. Например, путь к остановке может включать твёрдый ход, переход, свет и место посадки. Их можно показывать отдельными точками в данных, но человеку покажите как один понятный результат. Для рисунка группы разрешён общий вид предлагаемых вещей. Он должен отличаться от фотографии реального места и не доказывает, что все вещи туда помещаются.
+For a foreign precedent, check the primary source. Record the problem, what was built, what carries over to this site, the climate, dimensions, upkeep, and the limits of the evidence. Use the applicable local standards when sizing the intervention.
 
-При выборе зарубежного приёма откройте первоисточник. Запишите задачу там, построенное решение, применимость здесь, климат, размер, уход и то, чего источник не доказывает. Не переносите иностранные числовые нормы.
+## Record each intervention
 
-## Запись меры
+Keep a stable ID, location, observed problem, evidence, action, quantity and measurement method, material, accessibility, upkeep, proposed operator, timing, approval needed, expected benefit, and precedent if used. Mark which responsibilities are confirmed. Record open questions separately from selected proposals. Combine recurring activities by purpose while retaining the individual locations.
 
-Сохраните идентификатор, точное место, наблюдаемую проблему, источник, действие, объём и способ расчёта, материал, доступность, уход, предложенного ответственного, срок, нужное согласие, ожидаемое изменение и ссылку на пример, если он использован. Отдельно укажите, кто уже согласился на роль, а с кем согласия ещё нет. Если запись содержит только вопрос, держите её отдельно от принятых предложений. Повторяющиеся действия объединяйте по задаче, но сохраняйте точные места в данных.
+When nearby measures cover different sections of a street or depend on different operating rules, give each its own limits, action, status, and launch condition. Link interdependent records. For alternatives at the same site, give a criterion for choosing between them.
 
-Если соседние меры на одной улице охватывают разные отрезки или предполагают разные режимы, укажите для каждой свои границы, действие, статус и условие запуска. Свяжите записи, если они влияют друг на друга. Для альтернатив одной меры на одном участке укажите, по какому результату выбирают вариант.
-
-Для активной меры не пишите «изучить», «проверить» или «предусмотреть» вместо действия. Назовите, что строят, меняют, сохраняют или организуют. Нужный обмер оставьте условием следующей стадии. Если мера зависит от другой, запишите обе связи в данных.
-
-Порядок выполнения связывает меры по зависимостям. Начните с непрерывного пути и доступа, затем добавляйте функции, которые на него опираются. Для каждого этапа покажите временный доступный обход, если работы перекрывают существующий путь. Не перекрывайте действующий вход или выход защитного помещения ни на одном этапе. Укажите владельца, содержание, необходимые согласия и признак завершения. Для важного результата запишите положение до работ и способ сравнить его с положением после: кто доходит до услуги, сколько времени занимает путь, кто пользуется местом в разное время, работает ли оно зимой. Если после открытия место пустует или люди не могут им пользоваться, предусмотрите способ изменить режим или устройство. Такой порядок служит проектным решением, а не обещанием сроков или сметы без данных.
+Name the substantive action and record surveys as dependencies for it. Record dependencies in both linked records. Sequence access work before uses that rely on it. If construction closes an existing route, show the step-free detour at each stage. Keep designated emergency shelter access open. State who accepts and maintains the work, what approvals are needed, and how to recognize completion. Compare a baseline with outcomes such as travel time, usage at different times, and operation in winter. If the result fails, name who can adjust the design or operating rules.

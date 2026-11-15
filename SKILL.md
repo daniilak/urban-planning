@@ -1,86 +1,82 @@
 ---
-name: small-area-masterplan
-description: Разрабатывать и проверять мастер-планы небольших существующих территорий по картам, снимкам, рельефу, местным правилам и нуждам жителей. Применять также при аудите и правках готового мастер-плана или его сайта, когда работа касается мер, их географии, сравнений или понятности концепции.
+name: urban-planning
+description: Develop and review neighborhood-scale urban plans using site evidence, maps, photos, terrain, local rules, and everyday needs. Use for urban design, public space, walking and cycling networks, transit access, green infrastructure, or substantive reviews of an existing plan or its public website, maps, and visual comparisons.
 ---
 
-# Мастер план небольшой территории
+# Urban Planning
 
-Работайте с участком, кварталом, микрорайоном или иной небольшой территорией. Сначала узнайте границу, страну, цель и стадию работы. Изучите записи проекта и поздние решения заказчика. Для точечной правки готового плана возьмите за основу действующие материалы и проверьте затронутые разделы и связи между ними. Не переносите в новый проект адреса, размеры, климат, правила текста или решения прежнего проекта.
+Work at the scale of a site, block, neighborhood, or other small existing urban area. Establish the boundary, jurisdiction, purpose, and stage. Use the project records and the client's latest decisions. For a targeted revision, start with the current plan and check the affected sections and their connections. Carry forward only the data and constraints that belong to the current site.
 
-Результат навыка: связный набор решений с местами на настоящей карте, размерами, основаниями и порядком работ. Не считайте длинный список идей планом. Не требуйте каждую группу от участка, где ей нет места или спроса.
+Produce a coherent set of interventions with mapped locations, dimensions, evidence, and a delivery sequence. Select the interventions that the place and its users need.
 
-## Группы улучшений
+## Everyday activities
 
-Группируйте по тому, что человек делает, а не по фотографии или адресу. Внутри группы может быть несколько мест. Один рисунок может показывать общий результат группы, но каждое предложение сохраняет точное место на карте. При выборе мер читайте [каталог решений](references/intervention-catalog.md). Он содержит действия и условия, а не обязательный набор предметов.
+Group measures by what people do. A group can span multiple locations. A shared illustration can show the overall outcome, while each measure retains an exact location on the map. Use the [intervention catalog](references/intervention-catalog.md) to choose measures and check the conditions for each one.
 
-1. **Выйти из дома.** Свяжите подъезд с тротуаром без разрыва, дайте сухой вход, ясный адрес, свет, место для коляски и краткого ожидания. Не решайте задачу одним поручнем, если нужен целый доступный путь.
-2. **Пройти через район.** Соберите прямые пути от входов к остановкам, услугам и отдыху. Уберите тупики, ступени и разрывы. На склоне сравните пологий обход, лестницу, подъёмник или лифт, зимнюю уборку и точечный подогрев.
-3. **Перейти улицу.** Совместите место перехода с реальным пешим ходом. Рассмотрите короткий переход, приподнятый проезд, островок, освещение и обзор. Проверьте отвод воды, проезд спецмашин и действующую схему движения.
-4. **Дождаться транспорта.** Проектируйте путь от двери до посадки, а не один навес. Дайте ровную посадку, защиту от погоды, место для сидения, читаемое и при нужде звуковое расписание, безопасный переход к остановке в обратную сторону.
-5. **Дойти до школы и детсада.** Найдите действующие ворота, потоки детей, переходы и места встречи. Рассмотрите улицу с ограничением машин в часы прихода, отдельную короткую высадку, тень, навес и игровые детали пути. Рисунок на тротуаре не заменяет знак.
-6. **Играть и отдыхать во дворе.** Разведите активную игру, тихий отдых, занятия подростков и старших жителей. Добавьте доступную игру и ровные входы. Сохраните нужные нынешние функции и хозяйственный проезд.
-7. **Заниматься спортом и проводить события.** Соедините постоянный спорт со съёмными стендами, сценой или экраном, если они не отнимают площадку навсегда. Заранее задайте питание, хранение, доступ, время шума и уход после события.
-8. **Пользоваться парком.** Привяжите парк к уличной сети и входам, а не рисуйте отдельный остров. Совместите движение, отдых, спорт и занятия на открытом воздухе. Разнесите шум и тишину по форме участка.
-9. **Жить среди зелени и укрываться от жары.** Сохраните хорошие деревья, свяжите тень с главными путями, защитите корни. Найдите воду и доступное прохладное место на время сильной жары, если она бывает здесь. Там, где есть смысл и уход, добавьте плодовые посадки, цветение по сезонам и места для насекомых.
-10. **Быть у воды и переживать дождь.** Отделите прогулку у реки от работ в русле. Дайте безопасный путь и места смотреть на воду там, где это допустимо. Дождевые сады и сбор воды назначайте по стоку, грунту и сетям, а не по цвету пятна на карте.
-11. **Пользоваться услугами.** Проверьте, где находятся нужные людям магазины и службы, как к ним дойти и как привезти товар. Упорядочьте вывески, витрины, доставку и короткую остановку. Не занимайте проход и чужой фасад без права и согласия.
-12. **Содержать район.** Найдите места для отходов, уборки снега, ремонта, пожарного доступа и грузовой машины. Освещение, датчики и подогрев применяйте только вместе с питанием, ремонтом и ручным запасным способом.
-13. **Пользоваться повседневными удобствами.** Покажите туалеты, питьевую воду, места для ухода за ребёнком и другие нужные услуги вдоль путей и у мест долгого пребывания. Продумайте доступность, часы работы, чистоту, расходные вещи и ответственного. Не считайте отсутствие прямого требования в норме причиной отказаться от полезной услуги.
-14. **Ездить на велосипеде и самокате.** Свяжите дома с нужными местами непрерывным безопасным ходом. Покажите пересечения с машинами и пешеходами, места для обычных, грузовых и специальных велосипедов. Отведите место самокатам так, чтобы они не перекрывали тротуар.
-15. **Подъехать и доставить.** Разделите постоянную стоянку, краткую высадку, доставку, работу такси и служб по месту и времени. Считайте спрос и доступный край улицы. Сохраняйте проезд помощи, обзор у переходов и свободный пешеходный путь.
-16. **Найти путь и помощь.** Укажите адреса и входы, путь к остановке, туалету, парку и важным услугам. Дайте понятные указатели в точках выбора. Сверьте надписи с настоящими названиями мест и улиц. Не заменяйте доступную печатную информацию одним экраном или телефоном.
-17. **Встречаться каждый день.** Найдите место для спокойных встреч, кружков, помощи соседям и малых выставок круглый год. Начните с уже доступных помещений и площадок. Покажите вход, часы, бесплатный или платный доступ, ответственного и порядок совместного пользования.
-18. **Гулять с собакой.** Если это частое занятие района, покажите путь и место прогулки без конфликта с детской игрой, посадками и тихим отдыхом. Укажите местные правила, уборку и того, кто её обеспечивает. Не отнимайте нужную всем площадку ради необоснованного вольера.
-19. **Укрыться при опасности.** Различайте действующее защитное сооружение, помещение, которое можно приспособить, и обычный подвал. Сверьте сведения с владельцем и местной службой гражданской обороны. Покажите доступ от домов к подтверждённым местам, а будущие места отмечайте отдельно как предложение. Не объявляйте подвал готовым укрытием по снимку или плану здания.
-20. **Присесть по пути.** Найдите отрезки без отдыха между домом, остановкой и услугами. Подберите сиденья со спинкой и подлокотниками, опоры для короткой остановки или места для кресла рядом. Не сужайте проход и не ставьте сиденья лишь по равному шагу.
-21. **Поесть на улице без покупки места.** Дайте общие столы и воду там, где люди уже едят или задерживаются. Продумайте тень, уборку, доступное место за столом и путь к туалету. Не делайте всю посадку частью платного кафе.
-22. **Работать и учиться вне дома.** Если есть спрос, дайте тихое место со столом, сиденьем, тенью и связью с доступным помещением на случай дождя. Розетки ставьте только при питании и уходе. Не объявляйте обычную лавку рабочим местом.
-23. **Покупать на временном рынке.** Найдите законное место для сменных прилавков или небольших павильонов без перекрытия пути. Покажите подвоз, воду, питание, отходы, время работы и разборку. Не заменяйте постоянные нужные магазины случайной ярмаркой.
-24. **Войти в магазин или общественное здание.** Проектируйте дверь, порог, навес, вывеску, витрину и место ожидания как один узел. Согласуйте форму с самим зданием и соседними входами. Проверьте доступ без ступеней, открывание двери, свет, снег и права владельца.
-25. **Обменяться вещами и починить их.** Найдите помещение или защищённую площадку для выдачи вещей, обмена и дней ремонта. Нужны хранение, питание по задаче, ответственный и порядок приёма. Не превращайте общий проход в склад.
-26. **Выращивать растения вместе.** Общий огород или сад задаёт занятия жителей, а не только вид зелени. Покажите право на землю, воду, чистый грунт, доступные грядки, хранение инструмента и уход в отсутствие участников.
-27. **Наблюдать за природой.** Сохраните тихий ход к деревьям, лугу или воде и дайте места смотреть, не тревожа живое. Таблички, небольшие настилы и места для наблюдения нужны лишь там, где подтверждены виды и допустим доступ.
-28. **Создавать и видеть искусство.** Найдите стены, ограждения или общие места для работ местных авторов и сменных выставок. Решите, кто выбирает работы, кто владеет поверхностью, кто чистит и когда меняет экспозицию. Не выдавайте украшение за решение опасного прохода.
-29. **Отмечать праздники.** Предусмотрите места для временного света, вывесок, украшений и малых событий без постоянного захвата площади. Проверьте крепления, питание, видимость знаков, проход, хранение и снятие украшений после праздника.
-30. **Играть с водой в жару.** Если климат, спрос и сети это оправдывают, рассмотрите водную игру на доступной площадке. Разведите питьевую воду, игровой контур и дождевой сток. Назначьте очистку, сезон работы и способ отключения воды.
-31. **Пользоваться площадью без события.** Сохраните открытое место, где можно пройти, встретиться, играть или посидеть без билета и заказа. Съёмные столы, лёгкий навес и точки питания не должны превращать всю площадь в сцену или рынок.
-32. **Сдавать отходы раздельно.** Покажите путь от дома или общего места до площадки, место для разных видов отходов и подъезд машины. Сверьте способ сбора с местным порядком и оператором. Не обещайте раздельный вывоз по одному цвету контейнеров.
-33. **Проходить через район во время работ.** Для каждого этапа стройки покажите временный доступный путь к домам, остановкам и услугам, понятные указатели, защиту от техники и срок восстановления земли. Не считайте закрытый тротуар мелкой временной помехой.
+1. **Leave home.** Connect the entrance to the sidewalk with a continuous route. Check drainage, lighting, address visibility, and room for a stroller or a short wait.
+2. **Walk through the neighborhood.** Connect entrances, transit stops, services, and places to rest. On slopes, compare a gentler route, stairs, or a lift. Check drainage, winter maintenance, and any local need for pavement heating.
+3. **Cross the street.** Align crossings with actual walking routes. Compare shorter crossings, raised crossings, refuge islands, and lighting. Check sightlines, drainage, emergency access, and traffic operations.
+4. **Wait for transit.** Plan the whole trip from door to boarding point, including level access, weather protection, seating, legible information, and a safe route to the stop in the opposite direction.
+5. **Reach school or daycare.** Find the gates in use, children's routes, crossings, and meeting places. Consider timed traffic restrictions, a short drop-off area, shade, shelter, and play along the route. Confirm how restrictions would be signed and enforced.
+6. **Play and rest in a courtyard.** Make room for active play, quiet rest, teenagers, and older residents. Provide step-free access and inclusive play. Keep needed existing activities and service access.
+7. **Play sports and hold events.** Combine everyday sports with removable stands, a stage, or a screen where space permits. Plan for power, storage, access, noise, and cleanup.
+8. **Use a park.** Connect its entrances to the street network. Accommodate movement, rest, sports, and outdoor activities. Use the site's shape to separate noisy and quiet uses.
+9. **Find greenery and relief from heat.** Retain healthy trees, protect roots, and shade key routes. In heat-prone places, identify water and accessible cooling locations. Consider fruiting plants, seasonal flowers, and habitat where they can be maintained.
+10. **Spend time by water and get through heavy rain.** Distinguish waterfront access from works in the channel. Site rain gardens and water collection using runoff, soils, and utility information.
+11. **Reach shops and services.** Map demand, entrances, access, and deliveries. Coordinate signage, storefronts, loading, and short stops. Keep the accessible path and confirm rights to use facades and land.
+12. **Maintain the neighborhood.** Plan for waste, snow clearance, repairs, emergency access, and service vehicles. Pair lighting, sensors, and heating with power, maintenance, and a manual fallback.
+13. **Use everyday amenities.** Locate toilets, drinking water, and spaces for childcare along routes and at places where people stay. Specify accessibility, hours, cleaning, consumables, and responsibility.
+14. **Ride a bicycle or scooter.** Map a continuous route and show conflicts at intersections and boarding areas. Provide parking for standard, cargo, and adapted cycles. Keep scooter storage clear of walking routes.
+15. **Drop off and make deliveries.** Allocate curb space and time to parking, short drop-offs, freight, taxis, and emergency services. Check demand, sightlines, and the unobstructed pedestrian route.
+16. **Find the way and get help.** Use actual names and addresses. Sign destinations where people choose a direction. Make key information available in an accessible printed or physical form.
+17. **Meet people daily.** Find year-round space for informal meetings, activities, mutual aid, and small exhibitions. Start with accessible existing spaces and specify entry, hours, costs, and operation.
+18. **Walk a dog.** Account for local demand, rules, and cleanup. Separate dog activity from children's play, planting, and quiet rest where conflicts occur.
+19. **Reach emergency shelter.** Distinguish confirmed facilities from possible conversions and ordinary basements. Check access and capacity with the responsible authority before mapping a public route.
+20. **Sit down along the way.** Locate gaps between homes, stops, and services. Provide seating with backs and arms, short-rest supports, or space alongside for a wheelchair where useful.
+21. **Eat outdoors without a purchase.** Add shared tables and water where people spend time. Provide shade, cleaning, accessible seating, and a route to a toilet.
+22. **Work or learn outside the home.** Where demand exists, provide a quiet place with seating, a table, and shelter nearby. Add outlets where power and maintenance are arranged.
+23. **Shop at a temporary market.** Find a permitted site for removable stalls. Plan loading, water, power, waste, opening hours, and removal. Preserve through access and everyday shops.
+24. **Enter a shop or public building.** Treat the door, threshold, canopy, signs, frontage, and waiting space as one place. Check step-free access, door swing, lighting, snow clearance, and ownership.
+25. **Swap and repair things.** Find a sheltered space or a room with storage, power where needed, and a person responsible for intake and operation.
+26. **Grow plants together.** Confirm land rights, water, clean soil, accessible beds, tool storage, and who looks after the garden between sessions.
+27. **Observe nature.** Keep a quiet path to trees, meadow, or water. Provide viewing places where there is a real view, access is permitted, and wildlife can stay undisturbed.
+28. **Make and see art.** Find surfaces or shared places for local artists and changing displays. Identify the owner, curator, maintenance, and changeover. Address unsafe circulation directly.
+29. **Celebrate.** Plan space for temporary lighting, signs, decorations, and small events. Check fixings, power, sightlines, access, storage, and removal.
+30. **Play with water in hot weather.** Consider accessible water play where demand, climate, and utilities support it. Separate the drinking, play, and runoff systems. Define treatment, season, and shutdown.
+31. **Use a square on ordinary days.** Preserve room to walk, meet, play, and sit without a ticket or purchase. Use temporary equipment at the edges so everyday activity can continue.
+32. **Separate waste.** Map access from homes, collection space, and vehicle access. Confirm that the local operator actually collects the streams separately.
+33. **Get through during construction.** Keep an accessible, signed route to homes, transit, and services at each stage. Separate people from equipment and specify when the ground will be reinstated.
 
-Это темы для проверки, а не готовые карточки. Конкретные решения ищите в каталоге, затем отбирайте их по месту. Если часть района остаётся без пользы, вернитесь к диагностике, а не добавляйте случайные объекты ради числа.
+Use the [catalog](references/intervention-catalog.md) for the detailed options. Where a part of the neighborhood sees little benefit, return to the diagnosis and check its everyday needs.
 
-## От данных до плана
+## From evidence to a plan
 
-1. **Соберите основу.** Нужны граница территории, земля и права, здания и входы, улицы и переходы, остановки, зелень, вода, высоты, сети и снимки. Если задача затрагивает подвалы или защиту людей, запросите сведения о назначении подземных помещений и действующих укрытиях у уполномоченных лиц. Для каждого слоя сохраните источник, дату и точность. Различайте существующее, расчёт по карте и проект.
-2. **Найдите спрос и разрывы.** Начните с ежедневных поездок и пеших маршрутов. Проверьте весь путь, включая вход, переход и остановку. Сравните доступ из разных частей района и для детей, старших людей, людей с инвалидностью и тех, кто идёт с коляской. Смотрите район днём, вечером, в жару и зимой по мере доступности данных. Отметьте места шума, грязного воздуха и страха. Снимок не подтверждает соседний двор.
-3. **Составьте рабочую малую версию.** Сделайте карту, одну сквозную связь и хотя бы одну связанную с ней меру. Проверьте путь от исходных данных до понятного результата. Затем добавляйте группы и слои, не заменяя рабочую часть незаконченной сложной схемой.
-4. **Выберите меры.** Для каждой группы сопоставьте нужду, место, уже существующее, права, конфликты, уход и пользу. Сначала рассматривайте систему, потом отдельный предмет. Проверьте [каталог решений](references/intervention-catalog.md) и [библиотеку проектов](references/precedent-library.md). Добавляйте и собственные идеи, если они решают местную задачу. Проверка или обследование могут быть условием проекта, но не итоговым улучшением.
-5. **Проверьте размещение.** Считайте длины и площади в метрах по настоящим линиям и контурам. Проверьте входы, проход, деревья, сети, снег, воду и машины. Если данных мало, не рисуйте произвольную форму с точным размером.
-6. **Запишите и покажите.** У каждой меры должны быть действие, координата или контур, объём с методом расчёта, источник, предложенный ответственный, уход и зависимость. Отличайте назначенного исполнителя от того, с кем ещё надо договориться. Общий рисунок группы не подменяет точную карту. Разные знаки показывают существующее и предложенное.
-7. **Составьте порядок работ.** Укажите, какие меры образуют один проект, кто принимает участок, кто платит и содержит результат, какие согласия нужны и как проверить выполнение. На время стройки примените группу 33 и покажите смену проходов по этапам. Запишите исходное положение и признак пользы после работ, а не только факт постройки. Соберите открытые вопросы в одном месте.
+1. **Build the base map.** Establish the boundary, land and rights, buildings and entrances, streets and crossings, stops, trees, water, elevations, utilities, and photos. Record each layer's source, date, and precision. Where emergency shelter is relevant, confirm building use and access with the authorities. Label observed, estimated, and proposed information.
+2. **Find demand and breaks in the network.** Start with daily trips and look at the whole route, including doorways, crossings, and stops. Compare access for children, older adults, disabled people, and people with strollers. Use available observations from different times, seasons, and weather. Mark noise, pollution, and places where people feel unsafe.
+3. **Build a small working version.** Map one continuous connection and at least one related intervention. Check that the source evidence leads to a clear result. Then add the groups and layers needed for the wider plan.
+4. **Choose interventions.** Compare each need with the place, current use, rights, conflicts, maintenance, and expected benefit. Use the [catalog](references/intervention-catalog.md) and [precedents](references/precedent-library.md). Record a survey or inspection as a dependency when it is needed to make a decision.
+5. **Check the fit.** Measure lengths and areas along actual lines and boundaries. Check entrances, unobstructed width, trees, utilities, runoff, snow, and vehicles. Make assumptions explicit where observations are incomplete.
+6. **Record and show each proposal.** Give it an action, location or boundary, quantity and calculation method, source, proposed custodian, maintenance arrangements, and dependencies. Identify which roles are confirmed. Use different map symbols for existing and proposed features.
+7. **Sequence delivery.** Group dependent actions. Identify who takes responsibility, funds and maintains each part, and what approvals and acceptance checks it needs. Follow group 33 for temporary access. Record the baseline and a measure of benefit. Collect unresolved questions in one place.
 
-Для расчёта и записи мер читайте [проверку места и мер](references/site-and-measures.md). Перед выводом о готовности читайте [проверку результата](references/plan-review.md).
+For dimensions and records, use [site evidence and intervention records](references/site-and-measures.md). For handover, use the [plan review](references/plan-review.md).
 
-## Публичный сайт и фотовиды
+## Public websites and visual comparisons
 
-Когда результат включает сайт мастер-плана или правки к нему, читайте [подачу и проверку сайта](references/public-site.md). Для сравнения по исходному снимку применяйте проверку наложением. Дополнительные ракурсы, вечерние и сезонные варианты выбирайте по задаче. Например, зимний вид помогает показать доступность после снегопада, а вечерний — работу освещения.
+For a website or a revision to one, read [public site design and verification](references/public-site.md). Check the alignment of photo comparisons against the original. Choose extra viewpoints, evening versions, or seasonal views based on what they explain. A winter scene can illustrate access after snowfall, and an evening scene can show where lighting reaches.
 
-## Авторы и выбор проекта
+## Credits and project selection
 
-Показывайте, кто предложил, подготовил и выполнил проект. Для места, которое заметно меняет район, предлагайте открытый конкурс решений с ясным заданием, составом жюри, правилами оценки, вознаграждением финалистам и понятным путём от победившей идеи до стройки. Конкурс замысла не отменяет обязательный порядок выбора проектировщика и строителя. Подробности читайте в [порядке конкурса и указания авторов](references/contest-and-credits.md).
+Show who proposed, developed, and delivered the project. Where a design competition is useful, define the brief, jury, criteria, compensation for finalists, and the route from the winning concept to implementation. Procurement for later design and construction follows the applicable process. See [competitions and credits](references/contest-and-credits.md).
 
-Если проект воплощён, предложите табличку на месте и страницу с историей работы. Назовите действительные роли людей и организаций, участников конкурса, решение жюри и изменения после конкурса. Не выдавайте авторов замысла за строителей, а участие жителей за согласие всех жителей. Публикуйте имена и работы с учётом прав и согласия. Сведения о защитных объектах открывайте только в допустимом объёме.
+For a completed project, consider a plaque on site and a webpage that records the real roles, the jury decision where applicable, and subsequent changes. Attribute photographs and designs, respect publishing permissions, and limit public information about protected facilities to what the responsible authority allows.
 
-## Правила, советы и новые идеи
+## Rules, guidance, and new ideas
 
-Для страны, города и участка проверьте действующие документы на дату работы. Начните с [указателя правил по темам](references/rules-and-sources.md). Он направляет к санитарным правилам, правилам благоустройства данного муниципалитета, документам по земле и профильным СП. Для каждой меры запишите применимый пункт и его статус. Сверяйте требования со стадией работы: идея, задание на проектирование или документация для строительства. Само наличие СП или ГОСТ не делает каждый его пункт обязательным. Иностранный пример не даёт местного разрешения.
+Check the applicable rules for the jurisdiction, site, and stage using [rules and sources](references/rules-and-sources.md). Cite the relevant clause and its status. Check the difference between an early concept, a design brief, and construction documentation.
 
-Различайте четыре основания решения: обязательное местное требование, добровольное руководство, построенный пример и собственное предложение. Идее не нужен пункт нормы или точная копия чужого проекта. Ей нужны польза для людей, допустимое место, безопасность и способ содержания. Например, бесплатные прокладки в общественном туалете или отдельная комната для ухода за ребёнком могут быть частью предложения даже там, где местная норма этого не требует. Не выдавайте такую услугу за обязательную. Не утверждайте, что она «нигде не установлена»: правила разных стран различаются.
+Distinguish binding local requirements, voluntary guidance, built precedents, and original proposals. Borrow a principle from a precedent and recheck the dimensions, permission, climate, upkeep, and local need. Use primary sources to verify a precedent's status and performance. Image collections can help find visual approaches.
 
-Используйте [библиотеку проектов](references/precedent-library.md) для поиска сочетаний мер и порядка их работы. Переносите принцип, а не чужой размер или вид. Если нужного примера нет, запишите своё решение с тем же уровнем ясности: кому оно нужно, где будет, что человек сможет сделать, что потребуется каждый день, как узнать, что решение работает. Не убирайте хорошую идею только потому, что её нет в каталоге. Когда добавляете проверенный приём, пополняйте каталог ссылкой на первоисточник и условием применения.
+Treat a photo as evidence of what can be seen from its viewpoint. Use an elevation model for broad terrain and on-site measurements for a threshold or drainage detail. Verify road widths independently of centerlines. Check permissions separately from parcel outlines. Confirm a walking connection before relying on it.
 
-Подборка изображений, в том числе Pinterest, годится для поиска формы. Она не доказывает, что объект построен, полезен, законен или поместится на участке. Для такого вывода найдите город, владельца проекта или автора и факты о выполнении.
-
-Снимок подтверждает только то, что видно из точки съёмки. Карта высот показывает общий рельеф, но не уклон у двери и не точный сток. Осевая линия дороги не сообщает её ширину. Контур кадастрового квартала не означает право занять землю. Не соединяйте на схеме пешие пути через разрыв, который не подтверждён проходом или переходом.
-
-Задавайте вопросы, когда ответ меняет границу, цель, состав мер или права на участок. Очевидные исправления делайте без длинного опроса. Не публикуйте, не отправляйте властям и не меняйте внешние системы без поручения.
+Ask questions when the answer changes the boundary, purpose, interventions, or land rights. Make straightforward corrections using the available evidence. Publish, contact authorities, or change external systems when the user has authorized that action.

@@ -1,418 +1,277 @@
-# Каталог групп и решений
+# Urban design intervention catalog
 
-Читайте при выборе городских мер. Это банк приёмов, а не список того, что надо построить в каждом месте. Сначала найдите местную нужду и свободное место. Затем выберите связанную группу решений и проверьте её на карте. У каждого приёма ниже названо условие, из-за которого он может подойти или не подойти. Источники показывают устройство приёма, но не доказывают нужду на новом участке и не заменяют местные нормы.
+Use this catalog to select interventions after identifying the local need and mapping the space available. Read the conditions for each option. The sources show how interventions work in context. Check local demand, site constraints, and applicable rules separately.
 
-## 1. Выход из дома и первые метры
+## 1. Home entrances and the first few meters
 
-Смотрите весь ход от двери до общей пешеходной сети. Отдельная лавка, табличка или поручень не исправит разрыв маршрута.
+Check the whole route from the door to the sidewalk. Provide a level, dry landing and use spot elevations and utility information to route water away from the threshold. Continue a firm surface to the sidewalk and leave enough clear width where people pass. Make the address visible from the main approach and to emergency services. Light the door, steps, and address while shielding windows.
 
-* Дайте входу ровную сухую площадку и отведите воду от двери, если после дождя или таяния там стоит вода. Место стока выводите из высот и сетей.
-* Свяжите дверь с тротуаром непрерывным твёрдым покрытием. В местах встречного движения оставьте свободный проход, не занимая его клумбой или урной.
-* Поставьте номер дома там, где его видят с главного подхода и дороги службы помощи. Свет направьте на дверь, ступени и адрес, а не в окна.
-* Устройте место для коляски, короткого ожидания и доставки рядом с входом, если оно не сужает путь и не нарушает права собственников.
-* На большом перепаде высот выбирайте между пологим обходом, лестницей и подъёмным устройством как частями одной сети. Поручни ставьте у лестницы, но не объявляйте их заменой доступному пути.
+Where space and ownership permit, provide a place for a stroller, a short wait, or a delivery clear of the route. At a large change in level, compare a gentler route, stairs, and a lift as parts of the same network. Handrails improve stairs. Keep a separate step-free option where one is needed.
 
-Источник для проверки непрерывности пути и входов: [NACTO, пеший доступ к транспорту](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/).
+References [NACTO, pedestrian access networks](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/).
 
-## 2. Пешая сеть и склоны
+## 2. Walking networks and slopes
 
-Начните с входов в дома и мест назначения. Считайте пути по сети, а не по прямой на карте.
+Measure trips along the actual network from entrances to destinations. Consider filling a gap along an established desire line after checking land rights, slope, and drainage. If a lawful connection removes a dead end or a detour around a fence, show how much walking it saves from actual entrances.
 
-* Проложите недостающий отрезок по устойчивому фактическому ходу, если он соединяет сеть и имеет право на землю. Не копируйте любой вытоптанный след без проверки склона и воды.
-* Уберите тупик или обход у забора, если можно дать законный сквозной проход. Покажите, сколько пути это убирает от конкретных входов.
-* Дайте обход без ступеней там, где лестница разрывает важную связь. Лестницу можно сохранить как короткий путь для тех, кому она удобна.
-* На крутом узле рассмотрите лифт или подъёмник лишь вместе с наземным запасным ходом, светом, отводом воды и ежедневным уходом.
-* На коротком опасном участке возможен управляемый подогрев с датчиками влаги и температуры. Сначала обеспечьте водоотвод и уборку. Не отапливайте весь район по одному снимку снега.
-* Расположите отдых, воду и тень вдоль длинного пути, особенно если им пользуются старшие люди. Выбирайте места по маршруту и наблюдению, не ставьте лавки через произвольный шаг.
+Provide a step-free route where stairs break a key connection. Existing stairs can remain as a shortcut. A lift needs a practicable ground-level fallback, lighting, drainage, and daily maintenance. Start icy stretches with drainage and clearance. Consider moisture- and temperature-controlled heating for short, persistent trouble spots. Place seats, water, and shade where long routes and observed needs warrant them.
 
-Основа: [NACTO, связная пешая сеть](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/), [ВОЗ, удобство среды для старших людей](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2014/06/WHO-Global-Age-friendly-Cities-Guide.pdf), [город Саппоро, подогрев и его замена уборкой](https://www.city.sapporo.jp/kensetsu/yuki/yukishisetsu/05.html).
+References [NACTO, pedestrian access networks](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/), [WHO, age-friendly cities](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2014/06/WHO-Global-Age-friendly-Cities-Guide.pdf), [Sapporo, road heating and snow management](https://www.city.sapporo.jp/kensetsu/yuki/yukishisetsu/05.html).
 
-## 3. Переходы и спокойное движение машин
+## 3. Crossings and traffic calming
 
-Выбирайте место по пешей оси и возможностям дороги. Чертёж перехода требует местных правил и согласования.
+Choose the crossing from the walking route and road conditions. Subject to traffic and drainage requirements, carry the sidewalk level across minor driveways, use curb extensions where turning and boarding still work, or provide a refuge island where a two-stage crossing is useful and fits safely.
 
-* Продолжите тротуар через небольшой проезд на одном уровне с пешим ходом, если это допускает схема движения и отвод воды.
-* Сократите длину перехода выступом тротуара, когда это не перекроет поворот, посадку, сток и уборку.
-* Дайте островок на широкой дороге, если его можно разместить без опасного сужения и он помогает перейти в два этапа.
-* Уберите стоянку из зоны обзора, где машина скрывает ребёнка или человека на кресле. Одной яркой краски недостаточно.
-* Совместите понижение края, предупреждение для незрячих, освещение и ось перехода. Не исправляйте только одну сторону улицы.
-* Для временной проверки схемы применяйте съёмные элементы лишь там, где их можно законно установить и содержать зимой. После проверки примите постоянное решение.
+Remove parking that hides a child or wheelchair user from drivers. Align curb ramps, tactile warnings, lighting, and the crossing on both sides. Use authorized, maintainable temporary measures to test a layout. Assess the pilot before choosing a permanent arrangement.
 
-Основа: [NACTO, сокращение перехода](https://nacto.org/publication/urban-street-design-guide/street-design-elements/curb-extensions/), [Global Designing Cities Initiative, улицы для людей](https://globaldesigningcities.org/publication/global-street-design-guide/).
+References [NACTO, curb extensions](https://nacto.org/publication/urban-street-design-guide/street-design-elements/curb-extensions/), [Global Designing Cities Initiative, Global Street Design Guide](https://globaldesigningcities.org/publication/global-street-design-guide/).
 
-## 4. Остановка и путь к ней
+## 4. Transit stops and access to them
 
-Покажите маршрут от каждого важного входа до обеих сторон поездки. Сама точка остановки не подтверждает безопасный подход.
+Map the route from key entrances to stops in both directions. Provide a level boarding area, wheelchair space, and clear sidewalk width past the queue. Check which side the doors open on and where vehicles stop.
 
-* Дайте ровную площадку посадки, место для коляски и свободный ход мимо ожидающих. Проверяйте борт и положение дверей транспорта.
-* Защитите ожидание от дождя, ветра, солнца и снега с учётом местного климата. Не ставьте навес посреди прохода.
-* Добавьте сиденье, карту ближайших путей и читаемое расписание. Звуковую кнопку делайте только при доступном питании и уходе.
-* Если перевозчик даёт данные о прибытии, можно назвать время голосом и на экране. При отсутствии данных озвучивайте утверждённое расписание, а не придуманное время.
-* Свяжите остановку с переходом и соседними услугами. Велостоянка полезна там, где к ней есть удобный подъезд и её видно с людного места.
+Place weather protection outside the through-route. Provide seating, a local map, and a legible schedule. Audible announcements need power and maintenance. Use real-time arrivals where the operator supplies the data and the published schedule otherwise. Connect the stop to crossings and local services. Put cycle parking where the approach works and people can see it.
 
-Основа: [NACTO, доступ к остановке](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/), [NACTO, устройство остановки](https://nacto.org/publication/transit-street-design-guide/stations-stops/).
+References [NACTO, pedestrian access to transit](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/), [NACTO, stations and stops](https://nacto.org/publication/transit-street-design-guide/stations-stops/).
 
-## 5. Путь к школе и детсаду
+## 5. Routes to school and daycare
 
-Сначала найдите настоящие ворота и часы прихода. Центр здания на карте не равен входу.
+Identify gates in use and arrival and departure times. Map routes from homes, especially where children cross driveways or take shortcuts. Consider a timed restriction on through traffic near the gate when it can be authorized and alternatives and emergency access are available.
 
-* Свяжите дома, переходы и ворота одним понятным ходом. Особое внимание уделите пересечениям с выездами и местам, где дети срезают путь.
-* В часы прихода и ухода можно ограничить сквозной проезд возле ворот, если есть законный порядок, объезд и доступ служб.
-* Отделите место встречи и ожидания от прохода и машин. Навес, лавка и вода полезны, если место позволяет и есть уход.
-* Короткую высадку разместите вне перехода и линии пешего потока. Не превращайте вход школы в стоянку.
-* Введите маленькие игровые знаки вдоль безопасной части пути: рисунки шагов, растений, местные сюжеты. Они помогают ребёнку узнать маршрут, но не заменяют дорожные знаки.
-* Ищите место для короткой игры не только за школьным забором: на безопасном пути, у площадки ожидания и в общих местах. Не выводите игру на проезжую часть или в узкий проход.
-* Спросите детей и родителей о пути и опасных местах. После стройки пройдите его с ними снова, в том числе в плохую погоду.
+Keep meeting and waiting space clear of pedestrians and vehicles. Use shelter, seating, and drinking water where space and upkeep allow. Put short drop-offs away from crossings and walking routes. Add small play cues at safe points, including waiting areas outside the school. Use approved traffic controls where the street needs them. Walk the route with children and caregivers before and after construction, including in poor weather.
 
-Основа: [ЮНИСЕФ и ООН Хабитат, город с учётом детей](https://www.unicef.org/documents/child-responsive-urban-guidance), [ВОЗ, ЮНИСЕФ и ООН Хабитат, игра во всех общих местах](https://www.who.int/news/item/21-01-2026-new-guide-promotes-safe--inclusive-and-child-friendly-public-spaces).
+References [UNICEF and UN-Habitat, child-responsive urban guidance](https://www.unicef.org/documents/child-responsive-urban-guidance), [WHO, UNICEF, and UN-Habitat, child-friendly public spaces](https://www.who.int/news/item/21-01-2026-new-guide-promotes-safe--inclusive-and-child-friendly-public-spaces).
 
-## 6. Двор, игра и отдых
+## 6. Courtyards, play, and rest
 
-Размещайте занятия по действительным контурам двора, соседним окнам и путям. Не объявляйте один клочок земли сразу тихим садом, футболом и сценой.
+Map the courtyard boundary, homes, windows, paths, and existing uses. Keep play that works and add missing options for other ages and abilities. Provide step-free access, inclusive play, places for caregivers, and a quiet retreat. Teenagers may need a free court, tables, or a place to meet with lighting and some independence. Pair gentle exercise for older residents with benches, a level approach, and shade.
 
-* Сохраните полезные действующие игры, затем добавьте недостающие для разных возрастов.
-* Дайте доступный вход, совместную игру детей с разными возможностями, место для сопровождающих и тихий угол для отдыха от шума.
-* Подросткам нужны не только детские качели: рассмотрите столы, место для встречи, свободную площадку и свет без постоянного контроля взрослых.
-* Для старших жителей свяжите спокойные упражнения с лавками, ровным покрытием и местом укрыться от солнца.
-* Разведите активную и тихую части по расстоянию, обзору и времени использования. Не закрывайте путь машине помощи и сбору отходов.
-* Во дворе уместны общие столы, доска объявлений, место для почты или посылок, если жители и владелец готовы ими управлять.
-* Посмотрите, кто занимает большую площадку, а кто остаётся у края. При нехватке места разделите игру на несколько частей или меняйте занятия по времени. Спросите девочек, мальчиков и подростков отдельно, если их ответы могут различаться.
+Use distance, sightlines, or schedules to separate active and quiet uses. Protect emergency access and waste collection. Consider communal tables, noticeboards, or parcel space where people will manage them. Observe who occupies the center and who stays at the edge. Consult groups separately when their needs may differ.
 
-Основа: [ЮНИСЕФ, совместная доступная игра](https://www.unicef.org/serbia/en/reports/good-practice-guide-building-inclusive-playground), [Вена, парк для разных групп](https://www.wien.gv.at/freizeit/einsiedlerpark).
+References [UNICEF, inclusive playgrounds](https://www.unicef.org/serbia/en/reports/good-practice-guide-building-inclusive-playground), [Vienna, Einsiedlerpark](https://www.wien.gv.at/freizeit/einsiedlerpark).
 
-## 7. Спорт, выставки и временные события
+## 7. Sports, exhibitions, and temporary events
 
-Постоянная функция площадки сохраняется, если нет осознанного решения её заменить. Многофункциональность задаёт порядок смены занятий, а не занятость места всем сразу.
+Keep everyday uses available and plan event changeovers. Add removable nets, folding goals, or portable stands where storage is available. An event lawn needs power, temporary fixings, step-free access, and space for equipment. Provide lighting, seating, weather protection, and a way to remove equipment quickly.
 
-* Оставьте поле для ежедневной игры и добавьте съёмную сетку, складные ворота или переносные стенды, если хранение возможно.
-* На событийной лужайке заранее задайте питание, точки крепления временных работ, ровный доступ и место для оборудования. Без этого слово «выставка» останется вывеской.
-* Для встреч и показа работ предусмотрите свет, посадку, укрытие от погоды и способ быстро убрать временные вещи.
-* Сцену ставьте по отношению к окнам, ветру и подходам. Укажите допустимое время шума и ответственного за уборку.
-* Для крупного события проверьте входы, выходы, туалеты, воду, подвоз и работу площадки на следующий день.
-* Если места мало, используйте расписание и переносное оборудование вместо новой постоянной постройки.
+Site stages with regard to nearby homes, wind, and access. Define noise hours and cleanup responsibility. For larger events, test entrances, exits, toilets, water, deliveries, and reopening the next day. Where space is limited, scheduling and portable equipment can serve several uses.
 
-Основа: [ООН Хабитат, общественное место как место разных занятий](https://unhabitat.org/global-public-space-toolkit-from-global-principles-to-local-policies-and-practice), [парк УРАМ в Казани](https://urampark.ru/).
+References [UN-Habitat, Global Public Space Toolkit](https://unhabitat.org/global-public-space-toolkit-from-global-principles-to-local-policies-and-practice), [Kazan, URAM park](https://urampark.ru/).
 
-## 8. Парк и общие места района
+## 8. Parks and shared neighborhood spaces
 
-Парк должен быть частью путей района. Подход к нему не менее важен, чем объекты внутри.
+Connect park entrances to transit, courtyards, services, and a through step-free route. Use terrain, windows, and existing activity to locate active uses and quiet gardens. Preserve mature trees and useful open space. Site plants for sun, root space, available water, and winter maintenance.
 
-* Дайте входы с нужных сторон, сквозной доступный путь и связи с остановками, дворами и услугами.
-* Разделите активное место и тихий сад по рельефу, окнам и действующему пользованию. Не ставьте сцену там, где звук уходит прямо в жильё.
-* Сохраните зрелые деревья и полезную открытую площадку. Новые посадки размещайте по солнцу, корням, воде и зимней уборке.
-* Соедините спорт, свободную лужайку, семейный отдых и небольшие события только при наличии площади и управления.
-* Питьевая вода, туалет, тень, сиденье и понятный адрес могут быть важнее нового крупного объекта. Решите, кто их открывает и содержит.
+Combine sports, an open lawn, family uses, and small events where there is room and an operator. Assign opening and maintenance for drinking water, toilets, shade, seating, and wayfinding.
 
-Основа: [ООН Хабитат, общественные пространства](https://unhabitat.org/global-public-space-toolkit-from-global-principles-to-local-policies-and-practice).
+References [UN-Habitat, Global Public Space Toolkit](https://unhabitat.org/global-public-space-toolkit-from-global-principles-to-local-policies-and-practice).
 
-## 9. Деревья, сад и жаркие дни
+## 9. Trees, gardens, and heat
 
-Сначала покажите существующие кроны и путь тени в часы использования. Не считайте каждое зелёное пятно свободной землёй.
+Map tree canopies and shade at the times people use the site. Retain healthy mature trees and protect roots from paving and vehicles. Join shade along routes to stops, schools, and parks. Choose species for climate, salt exposure, soil volume, and upkeep. Place seasonal flowers and pollinator habitat with clear sightlines at entrances and crossings.
 
-* Сохраните зрелое здоровое дерево, когда оно уже даёт тень, и защитите его корни от парковки и новых покрытий.
-* Свяжите посадки в тенистый ход к остановке, школе и парку. Один красивый газон не заменит тень на пути.
-* Плодовые деревья и сад уместны, если есть право на землю, вода, уход и порядок сбора плодов. Иначе выберите более простые местные виды.
-* Цветение разных сезонов и участки для опылителей добавляйте без закрытия обзора у переходов и входов.
-* Там, где нет места для дерева в грунте, ищите место для навеса или иной тени, не подменяя посадку кадкой без ухода.
-* Выбирайте виды по климату, соли, объёму почвы и обслуживанию. Количество деревьев выводите из реальных мест посадки.
-* Отметьте самые жаркие отрезки пути и места долгого ожидания. Свяжите тень, питьевую воду и отдых в доступный ход. Если летом опасная жара, договоритесь об открытии прохладного помещения, проверьте часы, доступ и путь до него. Не называйте закрытую библиотеку доступным убежищем.
+Consider productive planting where land, water, care, and harvesting are agreed. Compare shelters where a tree cannot grow in the ground. Identify hot stretches and exposed waits. Connect shade, drinking water, and seats along an accessible route. Before marking a cooling center, confirm its operation, hours, and accessible entrance during heat alerts.
 
-Основа: [EPA, деревья и вода в городе](https://www.epa.gov/water-research/urban-street-trees-and-green-infrastructure), [ВОЗ, здоровье, шум и жара](https://www.who.int/teams/environment-climate-change-and-health/healthy-urban-environments/urban-planning/strategies), [Нью-Йорк, открытые места для защиты от жары](https://www.nyc.gov/assets/em/html/beat-the-heat/beattheheat_map.html).
+References [EPA, street trees and green infrastructure](https://www.epa.gov/water-research/urban-street-trees-and-green-infrastructure), [WHO, healthy urban planning strategies](https://www.who.int/teams/environment-climate-change-and-health/healthy-urban-environments/urban-planning/strategies), [New York City, cooling centers](https://www.nyc.gov/assets/em/html/beat-the-heat/beattheheat_map.html).
 
-## 10. Дождь, снег и берег
+## 10. Rain, snow, and waterfronts
 
-Река и ливневый сток требуют разных решений. Общая карта высот не показывает порог, трубу и точный путь воды.
+Map catchments, low points, pipes, soils, and flooding. Inspect after rain and thaw and survey thresholds and detailed runoff paths. Match rain gardens, bioswales, permeable paving, or irrigation storage to soils, utilities, pollutants, and maintenance. Route meltwater away from entrances, accessible paths, and play areas.
 
-* Соберите отдельную схему водосбора, низин, труб, грунта и мест затопления. Наблюдения после дождя и оттепели важнее окраски карты.
-* В подходящем месте примените дождевой сад, зелёный желоб, проницаемое покрытие или накопитель для полива. Выбор зависит от грунта, сетей, загрязнения и ухода.
-* Отведите талую воду от входов и доступного пути. Не направляйте воду с дороги в детскую игру без очистки и расчёта.
-* У реки прежде всего дайте связный путь по безопасной верхней кромке и места смотреть на воду. Мост, насыпь и тропу показывайте как существующие лишь после проверки по снимкам, словам местных жителей и карте. Новую переправу отмечайте как предложение.
-* Работы в русле, новый спуск и настил в зоне паводка рассматривайте только после проверки уровня воды, берегов, права и разрешений.
-* Если берег может затапливаться, не ставьте там оборудование, которое нельзя быстро снять или восстановить.
+Start with a connected path and viewpoints on a safe upper bank. Verify existing bridges, embankments, and paths with photos, local knowledge, and mapping. Label genuinely new crossings as proposals. Check water levels, bank stability, ownership, and permits for work in the channel, new descents, or floodplain boardwalks. In areas that flood, choose equipment that can be removed or reinstated.
 
-Основа: [EPA, выбор зелёных решений по условиям места](https://www.epa.gov/green-infrastructure/green-infrastructure-design-strategies), [EPA, руководство по зелёным улицам](https://www.epa.gov/nps/green-streets-handbook).
+References [EPA, green infrastructure design strategies](https://www.epa.gov/green-infrastructure/green-infrastructure-design-strategies), [EPA, Green Streets Handbook](https://www.epa.gov/nps/green-streets-handbook).
 
-## 11. Услуги, первые этажи и местная работа
+## 11. Local services, active ground floors, and jobs
 
-Проверьте наличие нужных услуг и путь к ним. Устройство самой входной зоны подробнее дано в группе 24. Право на фасад и участок всегда проверяют отдельно.
+Check which services are missing and where people can reach them. See group 24 for threshold design. Work with willing owners on sign locations, legible addresses, and active storefronts. Give daily services a level entrance, lighting, shade or a canopy, a resting point, and cycle parking where useful.
 
-* Договоритесь о единой зоне вывесок, ясных адресах и открытых витринах, если владельцы участвуют. Не называйте частный фасад общим без основания.
-* Устройте короткий удобный подход к ежедневным услугам: ровный вход, свет, тень или навес, место для отдыха и велосипедов.
-* Разведите доставку, короткую высадку и движение пешеходов по месту и времени. Машина не должна занимать переход и остановку.
-* Летние столы возможны лишь при сохранении свободного прохода, вывоза мусора и согласия владельца. Временный рынок рассматривайте отдельно по группе 23.
-* Почтомат, питьевая вода или общественный туалет полезны там, где есть поток людей, питание, уборка и ответственный.
-* Если людям далеко идти за обычной едой, найдите место для небольшого магазина в действующем помещении. Покажите пеший доступ, часы, доставку и вывоз отходов. Не заменяйте нужную услугу красивой витриной.
+Manage loading and short drop-offs so crossings, stops, and sidewalks stay clear. Outdoor tables depend on clear width, waste collection, and permission. Consider parcel lockers, water, and toilets where demand, utilities, cleaning, and management support them. Where grocery access is poor, check existing premises for a small shop and show walking access, opening hours, servicing, and waste collection.
 
-Основа: [NACTO, работающие первые этажи и пеший доступ](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/), [ВОЗ, доступ к еде и основным услугам](https://www.who.int/teams/environment-climate-change-and-health/healthy-urban-environments/urban-planning/strategies).
+References [NACTO, ground-floor activity and walking access to transit](https://nacto.org/publication/transit-street-design-guide/transit-system-strategies/network-strategies/pedestrian-access-networks/), [WHO, food and essential services](https://www.who.int/teams/environment-climate-change-and-health/healthy-urban-environments/urban-planning/strategies).
 
-## 12. Хозяйство, свет и зима
+## 12. Servicing, lighting, and winter operation
 
-Эти вещи не следует прятать за рисунком парка. Без них новая среда быстро перестанет работать.
+Map routes for emergency vehicles, waste collection, repairs, deliveries, and snow clearance. Check conflicts with trees, benches, and extensions to the sidewalk. Give waste sites an understandable resident entrance and truck access. Find snow storage that preserves crossings, visibility, doors, roots, and drains.
 
-* Покажите пути пожарной машины, вывоза отходов, ремонта, доставки и уборки. Сверьте их с предлагаемыми деревьями, лавками и выступами тротуара.
-* Устройте места сбора отходов с понятным входом жителей и подъездом машины. Не выводите число площадок из числа близких точек на открытой карте.
-* Найдите места для снега, где он не закроет переход, видимость, вход, корни и водоприёмник.
-* Дайте свет на пеший путь, вход и переход. Избегайте света в окна и тёмных разрывов между отдельными яркими точками.
-* Проверьте вечерний путь вместе с теми, кто им пользуется. Уберите глухие и плохо видимые участки, дайте понятный выход и возможность обратиться за помощью. Свет полезен, но сам по себе не даёт чувства безопасности.
-* Автоматическое включение света, озвучивание транспорта и подогрев применяйте при наличии питания, ремонта, ответственного и запасного способа работы.
-* Запишите, кто чистит, поливает, меняет детали и хранит съёмное оборудование. Не оставляйте уход общим обещанием.
+Light routes, entries, and crossings with even coverage and limited glare into homes. Walk the evening route with users to find hidden stretches, poor sightlines, and unclear exits. Plan a way to seek help. Automated lighting, transit announcements, and heating require power, repairs, a responsible operator, and a fallback. Specify who cleans, waters, replaces parts, and stores removable items.
 
-Основа: [ВОЗ, доступный ход и содержание](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2014/06/WHO-Global-Age-friendly-Cities-Guide.pdf), [ООН Хабитат, безопасность общих мест для женщин и девочек](https://unhabitat.org/the-public-space-assessment-design-and-management-methodology), [город Саппоро, управление подогревом](https://www.city.sapporo.jp/kensetsu/yuki/yukishisetsu/05.html).
+References [WHO, age-friendly cities](https://extranet.who.int/agefriendlyworld/wp-content/uploads/2014/06/WHO-Global-Age-friendly-Cities-Guide.pdf), [UN-Habitat, public space assessment and safety](https://unhabitat.org/the-public-space-assessment-design-and-management-methodology), [Sapporo, pavement heating](https://www.city.sapporo.jp/kensetsu/yuki/yukishisetsu/05.html).
 
-## 13. Повседневные удобства и общественные туалеты
+## 13. Everyday amenities and public toilets
 
-Ищите услугу вдоль нужного пути и у мест, где люди проводят время. Считайте не только число объектов, но и часы работы, вход без ступеней, чистоту и запасы. Услуга должна подходить детям, взрослым, старшим людям и тем, кому нужна помощь другого человека.
+Find locations along useful routes and where people spend time. Evaluate hours, step-free access, hygiene, and supplies. A free public toilet near a park, stop, market, or long route needs utility connections, a visible entrance, and daily care. Show the approach from different parts of the area and the opening hours.
 
-* Разместите бесплатный общественный туалет у парка, остановки, рынка или длинной прогулки там, где есть подключение, видимый вход и ежедневный уход. Покажите путь к нему с обеих сторон района и часы работы.
-* Дайте доступную кабину с местом для помощника. При достаточной площади рассмотрите взрослый стол для переодевания и подъёмное устройство. Не считайте детский стол заменой взрослому.
-* Добавьте отдельное чистое место для ухода за ребёнком: стол для смены подгузника, раковину, место для коляски и сиденье для кормления. Им должен пользоваться любой родитель или сопровождающий, а не только посетители женского туалета.
-* Держите бесплатно туалетную бумагу, мыло и, если местный порядок позволяет, прокладки и тампоны. Продумайте закрытый способ их выдачи, урны в кабинах, пополнение и вывоз. Не называйте это требованием российского СП без точного основания.
-* Добавьте питьевую воду с доступной высотой, место наполнить бутылку и простое указание, где ещё есть вода. Для зимы определите режим работы.
-* У входа дайте понятные знаки и сведения о доступности. Проверьте обзор и свет, но не ставьте камеры внутри или у двери так, чтобы они нарушали частную жизнь.
+Provide an accessible stall with room for assistance. Where space allows, consider an adult changing table and hoist. Provide a clean infant-care area with a changing table, sink, stroller space, and seat for feeding. Make it available to caregivers of any gender. Plan for toilet paper, soap, and free menstrual products where permitted, with discreet dispensers, bins, restocking, and collection.
 
-Примеры устройства и ухода: [THE TOKYO TOILET, Nishisando](https://tokyotoilet.jp/en/nishisando/), [Сидней, сеть общественных туалетов](https://www.cityofsydney.nsw.gov.au/public-health-safety-programs/public-toilets), [Эдинбург, бесплатные средства гигиены](https://www.edinburgh.gov.uk/cost-living/free-period-products). Источники показывают разные части предложения. Ни один из них не задаёт обязательный состав туалета в другой стране.
+Add accessible drinking water and bottle filling where maintainable. Set a winter operating regime. Provide readable signs for access and availability. Check sightlines and lighting while protecting privacy, including from cameras.
 
-## 14. Велосипед и самокат
+References [The Tokyo Toilet, Nishisando](https://tokyotoilet.jp/en/nishisando/), [Sydney, public toilets](https://www.cityofsydney.nsw.gov.au/public-health-safety-programs/public-toilets), [Edinburgh, free period products](https://www.edinburgh.gov.uk/cost-living/free-period-products).
 
-Велостойка не поможет, если к ней ведёт опасный разрыв. Смотрите путь от дома до школы, парка, работы и остановки. Не используйте тротуар как запасное место для всего транспорта.
+## 14. Cycling and scooters
 
-* Нарисуйте непрерывный маршрут и отметьте выезды, повороты, переходы, лестницы и участки с сильным потоком пеших людей. Выберите для каждого конфликта своё решение.
-* Там, где скорость и поток машин не позволяют спокойно ехать вместе, рассмотрите отделённый путь или соседнюю тихую улицу. Не рисуйте полосу без места для неё и без решения на перекрёстке.
-* Ставьте краткую велостоянку у входа в услугу и защищённое длительное хранение у жилья или пересадки, если есть право и уход. Учтите грузовой и приспособленный велосипед, которым нужно больше места.
-* Определите места стоянки самокатов вне свободного пешеходного прохода, обзора у переходов и входа. Если работает прокат, согласуйте порядок с оператором и городом.
-* Ремонтная стойка и насос полезны возле действующего веломаршрута, если назначен уход. Не ставьте их вместо безопасной связи.
+Map a continuous network between homes, services, and transit, including the crossings and gaps. Choose separation and intersection treatments for the speed, volume, and risks on each street. Show how a route passes boarding areas and driveways.
 
-Основа: [NACTO, планирование связной велосети](https://nacto.org/publication/urban-bikeway-design-guide/planning-and-developing-a-bikeable-city/planning-a-bike-network/), [Утрехт, места для хранения велосипедов в районе](https://www.utrecht.nl/city-of-utrecht/mobility/cycling/bicycle-parking). Размеры и дорожные знаки проверяйте по местным правилам.
+Provide convenient short-stay stands and secure long-term parking at homes or interchanges where there is permission and maintenance. Allow room for cargo and adapted cycles. Place scooters outside clear walking routes, sightlines, and entrances, and coordinate shared fleets with the operator and city. A pump or repair station is useful on a working route if someone maintains it.
 
-## 15. Подъезд, высадка и доставка
+References [NACTO, planning a bicycle network](https://nacto.org/publication/urban-bikeway-design-guide/planning-and-developing-a-bikeable-city/planning-a-bike-network/), [Utrecht, bicycle parking](https://www.utrecht.nl/city-of-utrecht/mobility/cycling/bicycle-parking).
 
-Один край улицы нужен разным людям в разное время. Сначала установите действующие въезды, парковку и места, где машины сейчас закрывают переход или путь автобуса.
+## 15. Curb access, drop-offs, and deliveries
 
-* Отделите постоянную стоянку от короткой высадки, разгрузки, такси и доступа спецслужб. Для каждого занятия укажите место и время, не подписывайте всё одним словом «парковка».
-* Найдите место доставки у услуг и жилых входов без езды по тротуару. Дайте короткий путь от машины до двери для груза и человека с ограниченной подвижностью.
-* У школы и остановки не допускайте стоянку там, где она перекрывает обзор ребёнка, пешеходный ход или посадку. Покажите, куда перемещается нужная высадка.
-* При смене стоянки посчитайте фактические места до и после. Не обещайте, что машины исчезнут. Проверьте подъезд пожарной машины, уборку снега, мусоровоз и права на участок.
-* Если доставка занимает край улицы только часть дня, рассмотрите смену режима по времени, когда это допускает местная схема движения и есть понятные знаки.
-* Если на стоянке предлагают зарядку электрического транспорта, покажите питающую сеть, место для оборудования, защищённый пеший проход и того, кто обслуживает устройство. Не считайте зарядку обязательной для любой стоянки без проверки местных правил и стадии работ.
+Map driveways, current parking, and where vehicles block crossings or buses. Allocate space and hours separately for long stays, drop-offs, loading, taxis, and emergency access. Give deliveries a short route to the door with no driving on the sidewalk. Preserve visibility near schools and stops and show where displaced drop-offs can go.
 
-Основа: [Нью-Йорк, места для доставки и высадки](https://www.nyc.gov/html/dot/html/motorist/loading-zones.shtml), [NACTO, совместная работа края улицы](https://nacto.org/wp-content/uploads/BuildingHealthyCities_UrbanFreight_CurbsideManagement.pdf). Чужие знаки и режим не переносите в российскую схему движения.
+Count spaces before and after any change. Check emergency access, snow clearance, collection, and land rights. Consider timed loading where regulations and signs support it. For proposed electric charging, show supply, equipment, safe pedestrian clearance, maintenance, and applicable rules.
 
-## 16. Указатели, адреса и понятный район
+References [New York City, loading zones](https://www.nyc.gov/html/dot/html/motorist/loading-zones.shtml), [NACTO, urban freight and curb management](https://nacto.org/wp-content/uploads/BuildingHealthyCities_UrbanFreight_CurbsideManagement.pdf).
 
-Человек должен найти нужный вход и путь без телефона. Проверяйте указатели там, где нужно выбрать направление, а не через равный шаг.
+## 16. Wayfinding and addresses
 
-* Поставьте карту у важного входа в район, остановки или парка, если там есть выбор путей. Покажите только реальные проходы, переходы, улицы, туалет, воду и доступный обход.
-* На развилке используйте короткий указатель с названием места и временем пути, рассчитанным по настоящей сети. Не указывайте дорогу через закрытый двор или лестницу как доступную всем.
-* Свяжите номера домов, названия улиц и входов одним ясным порядком. Если используете историю или рисунки места, подтвердите название и смысл местными источниками, не подменяйте ими адрес.
-* Дублируйте важные сведения понятным текстом и знаками. Экран или код для телефона может дополнять указатель, но не должен быть единственным способом найти помощь.
-* Сверьте видимость и свет на пути к туалету, остановке и выходу из парка вечером. Соседнее дерево или рекламный щит не должны закрывать важный знак.
+Put maps at entrances, stops, and parks when people need to choose a route. Show verified paths, crossings, entries, toilets, water, and step-free alternatives. At junctions, use a short destination name and a walking time based on the actual network.
 
-Основа: [Нью-Йорк, городская система пеших указателей](https://www.nyc.gov/html/dot/html/pedestrians/walknyc.shtml), [ВОЗ, информация и участие людей](https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework./).
+Coordinate street names, building numbers, and entries. Verify local stories and imagery if used alongside addresses. Provide key information in readable text and symbols. Digital signs and QR codes can add detail. Check that signs to toilets, transit, and park exits remain visible and lit after dark.
 
-## 17. Встречи и общее дело
+References [New York City, WalkNYC](https://www.nyc.gov/html/dot/html/pedestrians/walknyc.shtml), [WHO, age-friendly cities framework](https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework./).
 
-Это повседневная жизнь района, а не редкий фестиваль. Человек должен иметь место для встречи без покупки билета или товара. Не объявляйте частное помещение общим без согласия владельца и понятных часов доступа.
+## 17. Everyday gathering and shared activities
 
-* Сначала найдите существующую библиотеку, клуб, школу с подходящим режимом, помещение дома или открытую площадку. Посчитайте путь к ним от разных входов, в том числе без ступеней.
-* Если общего места нет, предложите небольшую комнату или павильон для кружков, соседской помощи, занятий и местных выставок. Укажите вход, туалет, отопление или защиту от погоды, хранение вещей и того, кто открывает дверь.
-* На улице дайте столы, сиденья и место для спокойного занятия рядом с проходом, но вне него. Не заполняйте всю площадку одним занятием или одной возрастной группой.
-* Составьте простой порядок пользования: свободные часы, запись для групп, уборка, тишина и способ предложить своё занятие. Если доступ платный, не называйте место общедоступным.
-* Для школьного двора рассмотрите открытие в отдельные часы только при согласии владельца и при решённой охране детей, уборке и ответственности. Не считайте такой доступ уже существующим.
-* Подвальное помещение можно предложить для кружков, мастерской или хранения общего оборудования лишь после выяснения его назначения, прав, состояния, сухости, входов, инженерных сетей и пожарных условий. Технический подвал не считайте пустой комнатой. Если помещение служит защите людей, мирное использование не должно мешать его готовности.
+Identify a library, community room, school with feasible opening hours, or outdoor space first. Check step-free routes from several starting points. If a shared venue is missing, consider a small room or pavilion for clubs, mutual aid, learning, or exhibitions. Specify the entrance, toilets, weather protection, storage, and who opens the venue.
 
-Основа: [ВОЗ, участие в жизни района](https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework./), [Париж, школьные дворы для разных занятий и открытие части из них по субботам](https://www.paris.fr/pages/les-cours-oasis-7389), [ООН Хабитат, оценка и управление общими местами](https://unhabitat.org/the-public-space-assessment-design-and-management-methodology).
+Place outdoor tables and seating beside the through-route. Set open hours, group reservations, cleaning, noise rules, and a way to propose activities. State any fees. Opening a schoolyard outside school hours requires owner agreement, safeguarding, and maintenance. Reusing a basement requires checks on legal use, ownership, condition, moisture, access, services, and fire safety. Keep any civil-defense facility ready for use.
 
-## 18. Прогулка с собакой
+References [WHO, age-friendly cities framework](https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework./), [Paris, Oasis schoolyards](https://www.paris.fr/pages/les-cours-oasis-7389), [UN-Habitat, public space assessment and management](https://unhabitat.org/the-public-space-assessment-design-and-management-methodology).
 
-Проверьте, сколько людей гуляет с собаками и где они ходят сейчас. Не считайте каждую лужайку местом для выгула. Местные правила могут запрещать собак в части парков или требовать поводок.
+## 18. Dog walking
 
-* Сохраните удобный путь прогулки и поставьте урны там, где их можно регулярно очищать. Пакеты для уборки полезны лишь при пополнении и понятном местном порядке вывоза.
-* Если спрос и место достаточны, рассмотрите отдельную площадку для свободного бега. Покажите вход, ограждение, воду, покрытие, уборку и расстояние до тихого отдыха. Не занимайте ею единственное место для детской игры.
-* Уберите конфликт у входа в школу, узкого прохода и питьевого крана. Если площадь мала, лучше ясные правила и удобный путь к уже существующей площадке, чем тесный новый вольер.
-* Сверьте права на землю и правила именно своего города. Правила зарубежного парка не действуют на новом участке.
+Observe where people already walk dogs and check local restrictions. Maintain a convenient route and usable bins. Provide bags where they will be restocked. Consider an off-leash area only where demand and space support it. Plan fencing, water, surfacing, cleaning, and separation from quiet rest and children's play.
 
-Пример: [Вена, сеть площадок и правила их использования](https://www.wien.gv.at/freizeit/hundeauslaufzonen). Город показывает разные типы и размеры площадок, но они не задают обязательную площадь для другого города.
+Resolve conflicts at school gates, narrow paths, and fountains. On a tight site, a clear route to an existing dog area may offer more benefit. Verify ownership and actual leash and access rules.
 
-## 19. Укрытие при опасности
+References [Vienna, dog exercise areas](https://www.wien.gv.at/freizeit/hundeauslaufzonen).
 
-Покажите путь к действующим местам защиты только по подтверждённым сведениям уполномоченных лиц. Не считайте подвал, подземную стоянку и специальное защитное сооружение одним и тем же. Какой вид защиты нужен, определяют местные планы и ответственные службы, а не рисунок мастер плана.
+## 19. Emergency shelter
 
-* Сначала запросите у местной службы гражданской обороны и владельцев перечень действующих мест, их назначение, доступ и порядок открытия. Отделите подтверждённое место от помещения, которое ещё предстоит приспособить.
-* Для подходящего по назначению подвала предложите конкретную работу: освободить проходы, устранить затопление, обеспечить нужные входы, свет, связь и содержание. Состав работ и число мест определите после обследования и проекта по местным требованиям. Не называйте эти действия достаточными для готовности укрытия.
-* Сравните пути от жилых входов к подтверждённым местам по действительным проходам. Отметьте ступени, запертые двери, возможное затопление и порядок доступа. Согласуйте способ помощи людям, которым трудно спуститься, с ответственной службой.
-* Не размещайте новое оборудование, склад или досуг так, чтобы они закрыли действующий вход, выход, вентиляцию или путь к защитному помещению. Мирное использование защитного сооружения допускайте только при сохранении готовности и законном порядке.
-* На общедоступной карте показывайте адрес и путь лишь в объёме, разрешённом ответственным органом. Не выкладывайте планы внутренних помещений, ключи, режим доступа и неутверждённые места как готовую инструкцию для жителей.
+Map routes only to facilities whose purpose and operation the responsible authority confirms. A basement, underground garage, and designated shelter have different roles. Ask owners and the civil protection authority about authorized sites, access, and opening procedures.
 
-Основа для России: [МЧС, порядок поиска мест укрытия](https://40.mchs.gov.ru/deyatelnost/rabota-s-obrashcheniyami-grazhdan/chasto-zadavaemye-voprosy/voprosy-grazhdanskoy-oborony), [СП 88.13330.2022](https://protect.gost.ru/sp/details/95171860-edb7-41d1-8c5a-c78dbc9ff50c), [ГОСТ Р 42.4.16-2023](https://protect.gost.ru/gost/details/3e396477-59c4-4a36-8553-b38f194eb5ce). Применимость и обязательность отдельных требований проверяйте для конкретного проекта.
+A possible conversion may need clear passages, flood protection, entrances, lighting, communications, and maintenance. Determine the work and capacity after survey and design under local requirements. Check the real paths from homes, including steps, locked doors, flooding, and assistance for people who cannot descend unaided. Keep exits, ventilation, and access clear. Release only location and route information approved for public use. Keep restricted layouts, keys, and operating procedures out of public material.
 
-## 20. Отдых на пути
+References [Russian EMERCOM, civil defense and shelter information](https://40.mchs.gov.ru/deyatelnost/rabota-s-obrashcheniyami-grazhdan/chasto-zadavaemye-voprosy/voprosy-grazhdanskoy-oborony), [SP 88.13330.2022](https://protect.gost.ru/sp/details/95171860-edb7-41d1-8c5a-c78dbc9ff50c), [GOST R 42.4.16-2023](https://protect.gost.ru/gost/details/3e396477-59c4-4a36-8553-b38f194eb5ce).
 
-Эта группа нужна на улице и между местами назначения. Отдых во дворе и парке уже описан в группах 6 и 8. Найдите длинные отрезки без удобного места остановиться, прежде чем ставить новую мебель.
+## 20. Resting along a route
 
-* Для долгого сидения рассмотрите лавку со спинкой и подлокотниками. Для краткой остановки может подойти опора, на которую можно присесть. Стенка клумбы и широкая ступень не заменяют доступное сиденье для всех.
-* На части точек оставьте рядом ровное свободное место для кресла или коляски. Расположите сиденья так, чтобы люди могли выбрать разговор или покой, солнце или тень, но не занимали путь.
-* Подбирайте дерево, металл и другие материалы с учётом жары, мороза, намокания, ремонта и действий уборочной техники. Заранее назначьте очистку и замену деталей.
-* Покажите на карте не число лавок само по себе, а путь между местами отдыха и их связь с входами, остановками и услугами.
+Find long stretches without a place to rest between destinations. Provide benches with a back and arms for a longer sit and leaning supports for a short pause where useful. At some stops, leave a level space beside the seat for a wheelchair or stroller. Give people options for conversation, quiet, sun, and shade while keeping the route clear.
 
-Основа: [Нью-Йорк, места для сидения и их уход](https://www.nyc.gov/html/dot/html/pedestrians/seating.shtml), [городское руководство Нью-Йорка по разным типам сидений](https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/citywide/privately-owned-public-spaces/popd_rules.pdf). Их размеры и порядок содержания не становятся местной нормой.
+Select materials for heat, frost, water, maintenance equipment, and repair. Specify cleaning and replacement. Map the sequence of resting places and their relation to entrances, stops, and services.
 
-## 21. Еда и питьё на общей площадке
+References [New York City, public seating](https://www.nyc.gov/html/dot/html/pedestrians/seating.shtml), [New York City, seating in privately owned public spaces](https://www.nyc.gov/assets/planning/downloads/pdf/our-work/plans/citywide/privately-owned-public-spaces/popd_rules.pdf).
 
-Человек должен иметь возможность съесть принесённую еду без покупки места в кафе. Не делайте эту группу обязательной там, где уже есть удобные общие места и спроса нет.
+## 21. Eating and drinking in public space
 
-* Дайте несколько мест за столом, в том числе с удобным подъездом на кресле. Выберите положение по тени, ветру и доступному пути, а не только по красивому виду.
-* Поставьте питьевую воду и урну там, где их можно содержать. Проверьте, что переполненная урна не окажется у жилого окна и что зимой воду можно отключить без порчи узла.
-* При большом потоке еды навынос предусмотрите мытьё рук или доступ к уже работающему туалету. Не выдавайте стол без ухода за полноценную зону питания.
-* Не отдавайте все сиденья коммерческому заведению. Если кафе пользуется частью площади, покажите свободную часть и её режим.
+Where people already eat outside or need somewhere to do so, provide shared tables with wheelchair spaces and a good approach. Check wind and shade. Place drinking water and bins where they can be serviced comfortably and plan winter shutoff. Where takeout demand is high, provide handwashing or a route to an operating toilet.
 
-Основа: [Нью-Йорк, уличные места для еды, чтения и отдыха](https://home4.nyc.gov/html/dot/html/pedestrians/streetseats.shtml), [Лондон, доступ к общему месту во время платных занятий](https://www.london.gov.uk/publications/public-london-charter).
+Keep free seating available when a café uses part of a square. Show the public area and its hours.
 
-## 22. Работа и учёба на улице
+References [New York City, Street Seats](https://home4.nyc.gov/html/dot/html/pedestrians/streetseats.shtml), [London, Public London Charter](https://www.london.gov.uk/publications/public-london-charter).
 
-Проверьте спрос у студентов, жителей и местных учреждений. Работа на улице отличается от короткого отдыха длительностью, положением тела и потребностью в тишине.
+## 22. Working and learning outdoors
 
-* Поставьте устойчивый стол и сиденье в тени, оставив место для кресла и свободный проход. Можно дать выбор между столом на одного человека и общим столом.
-* Если рядом есть библиотека или общий зал, свяжите уличное место с ним и укажите часы доступа. На случай дождя не обещайте работу под открытым небом круглый год.
-* Розетки, свет и связь добавляйте только там, где решены питание, защита от воды, ремонт и часы пользования. Не делайте телефон обязательным условием доступа.
-* Сверьте шум от дороги и площадки с нуждой в спокойной работе. Не занимайте единственную детскую площадку столами для взрослых.
+Check demand among students, residents, and institutions. Provide a stable table and seating in shade, room for a wheelchair, and clear access. Offer a quieter individual spot or a shared table where useful. Connect to an indoor fallback, such as a library, and show its hours.
 
-Основа: [Нью-Йорк, общественные уличные места для чтения и работы](https://home4.nyc.gov/html/dot/html/pedestrians/streetseats.shtml), [национальное руководство Англии о разных занятиях в общем месте](https://www.gov.uk/government/publications/national-design-guide/national-design-guide-accessible-version).
+Provide power, lighting, and connectivity only where weather protection, repairs, and operating hours are arranged. Keep access available without a phone. Check noise and preserve children's play space.
 
-## 23. Временный рынок и мелкая торговля
+References [New York City, Street Seats](https://home4.nyc.gov/html/dot/html/pedestrians/streetseats.shtml), [England, National Design Guide](https://www.gov.uk/government/publications/national-design-guide/national-design-guide-accessible-version).
 
-Уточните, чего людям не хватает каждый день, а что нужно только по выходным или в сезон. Рынок не должен лишать район постоянного магазина и свободной площади.
+## 23. Temporary markets and small traders
 
-* Покажите границы торговых мест, путь покупателя, подвоз и место машины после разгрузки. Съёмный прилавок или небольшой павильон выбирайте по часам работы и возможности хранения.
-* Защитите продавца и покупателя от осадков, но оставьте обзор на переходах и входах. Продумайте воду, питание, отходы, стоки от торговли едой и уборку после закрытия.
-* Укажите, кто распределяет места и как в торговле участвуют местные жители и малые производители. Не обещайте стихийную торговлю там, где нужен местный порядок размещения.
-* Для праздника возможен иной состав прилавков, но крепления и питание лучше совместить с постоянной схемой площади, если это не мешает повседневному использованию.
+Distinguish daily needs from weekend and seasonal demand. Preserve everyday shops and room to use the square freely. Show stall boundaries, shopper routes, loading, and where vehicles go after unloading. Choose removable stalls or pavilions by hours and storage.
 
-Основа: [транспортное руководство Лондона о прилавках, павильонах и отходах](https://content.tfl.gov.uk/streetscape-guidance-2022-revision-2.pdf), [город Лондон, местный порядок временной торговли](https://www.cityoflondon.gov.uk/services/licensing/street-trading). Иностранный порядок разрешений не переносите на другую страну.
+Provide weather protection while keeping entrances and crossings visible. Plan water, power, waste, runoff from food service, and cleanup. Identify who allocates pitches and how local residents and small producers can take part. If needed, share event fixings and power points with the ordinary layout where they stay out of daily use.
 
-## 24. Входы магазинов и общественных зданий
+References [Transport for London, Streetscape Guidance](https://content.tfl.gov.uk/streetscape-guidance-2022-revision-2.pdf), [City of London, street trading](https://www.cityoflondon.gov.uk/services/licensing/street-trading).
 
-Вход школы, библиотеки, магазина и службы помощи должен легко находиться и работать в любую погоду. Эта группа отвечает за форму и устройство порога, а группа 11 за наличие услуги и её связь с районом.
+## 24. Shop and public-building entrances
 
-* Покажите фасад целиком, соседние двери и высоту порога. Выберите решение входа без ступеней; при сложном перепаде высот покажите полный доступный путь, а не короткий пандус в никуда.
-* Соедините навес, водоотвод, покрытие, дверь, освещение, адрес и место короткого ожидания. Открытая дверь, очередь, вывеска и летний товар не должны перекрывать тротуар.
-* Подберите оформление под строение и улицу: пропорции витрины, читаемая вывеска, цвет и материал, размещение наружных блоков и проводов. Не навязывайте одной серии фасадов разные исторические здания.
-* Сравните вход с общей крышей для ряда помещений и отдельный вход с защищённой нишей ожидания. Выбирайте по числу дверей, ширине тротуара, направлению дождя и устройству фасада. Не дорисовывайте нишу там, где для неё пришлось бы менять несущие части здания.
-* Для частного фасада запишите владельца, нужное согласие, правила вывесок и объём работ. Рисунок в мастер плане не означает согласия собственника.
+Show the whole frontage, adjoining doors, and threshold levels. Design a continuous step-free route through complex level changes. Coordinate the canopy, drainage, paving, door, lighting, address, and waiting area. Account for door swing, queues, merchandise, and signs on the sidewalk.
 
-Основа: [Брэдфорд, принятый в 2026 году городской совет по входам и витринам](https://www.bradford.gov.uk/planning-and-building-control/planning-policy/shopfront-design-guide-supplementary-planning-document/), [Манчестер, руководство по оформлению магазинов и вывескам](https://www.manchester.gov.uk/planning-and-regeneration/planning/shopfront-and-signage-design-guide). Для российского проекта сверяйте местные правила фасадов, рекламы, доступности и охраны наследия.
+Fit storefront proportions, signs, materials, external equipment, and cables to the building and street. Compare a shared canopy with a sheltered individual entry using the number of doors, sidewalk width, rain exposure, and facade structure. Record ownership, permission, signage and heritage requirements, and the extent of work.
 
-## 25. Обмен вещами и ремонт
+References [Bradford, Shopfront Design Guide](https://www.bradford.gov.uk/planning-and-building-control/planning-policy/shopfront-design-guide-supplementary-planning-document/), [Manchester, Shopfront and Signage Design Guide](https://www.manchester.gov.uk/planning-and-regeneration/planning/shopfront-and-signage-design-guide).
 
-Сначала найдите действующую библиотеку, клуб или другое доступное помещение. Обменный шкаф на улице уместен только при ежедневном уходе и защите вещей от дождя.
+## 25. Sharing and repairing items
 
-* Дайте место приёма, выдачи и короткой работы с вещью. Для ремонта нужны стол, безопасное питание по задаче, хранение инструмента и ответственный мастер или ведущий.
-* Разделите чистые вещи для обмена, вещи для ремонта и отходы. Определите, что принимают, когда открыто и куда уходят невостребованные предметы.
-* Если ремонт проходит лишь раз в месяц, используйте комнату и съёмные столы, а не стройте новый павильон без постоянного занятия.
-* Покажите доступный путь к месту, право пользования помещением и правила безопасности для работы с электричеством и инструментом.
+Choose an existing room or a sheltered site for swap and repair sessions. Provide a workbench, safe task-specific power, tool storage, and a repair lead. Separate items for exchange, repairs, and disposal. Define what is accepted, hours, and where unclaimed items go.
 
-Основа: [Ричмонд, действующее место для обмена и ремонта](https://www.richmond.gov.uk/the_fixery), [Эдинбург, дни ремонта вместе с библиотекой инструментов](https://www.edinburgh.gov.uk/directory-record/1613540/repair-cafe-edinburgh).
+Use shared rooms and removable tables for occasional events. Confirm step-free access, permission, and safe use of tools and electrical equipment.
 
-## 26. Общий огород и уход за садом
+References [Richmond, The Fixery](https://www.richmond.gov.uk/the_fixery), [Edinburgh, Repair Café](https://www.edinburgh.gov.uk/directory-record/1613540/repair-cafe-edinburgh).
 
-Это занятие жителей, а не замена работы озеленителей. Оно отличается от группы 9 участием людей в посадке, сборе и уходе.
+## 26. Community gardens and shared stewardship
 
-* Выберите место по солнцу, воде, состоянию грунта и праву на землю. При сомнении в чистоте почвы предусмотрите проверку и подходящие грядки, а не сажайте съедобное на загрязнённом участке.
-* Дайте доступный подход, воду, место для инструмента и совместной работы. Продумайте хранение, уборку и защиту от случайного проезда машины.
-* Согласуйте, кто поливает летом и что происходит, если участники перестали ухаживать за местом. Общий сад не должен превращаться в частный огороженный участок без решения жителей и владельца.
-* Если земли мало, рассмотрите небольшой общий сад или уход за уже существующими плодовыми деревьями, но не обещайте урожай без спроса и ухода.
+Choose the site by sun, water, soil, and permission. Test soil where contamination is uncertain and use suitable beds. Provide an accessible approach, tool storage, water, shared working space, cleanup, and protection from vehicles.
 
-Основа: [Нью-Йорк, работающие программы общих садов](https://www.nyc.gov/site/foodpolicy/programs/urban-growing-and-gardening.page), [Чешир, городской раздел об общих садах и огородах](https://www.cheshirewestandchester.gov.uk/design-code/4-public-space/4-5-allotments-orchards-and-community-gardening).
+Agree on watering and what happens if participation falls. Agree any access or enclosure with residents and the owner. For a tight site, consider a small shared garden or care for existing fruit trees.
 
-## 27. Наблюдение за природой
+References [New York City, urban growing and gardening](https://www.nyc.gov/site/foodpolicy/programs/urban-growing-and-gardening.page), [Cheshire West and Chester, community gardens and allotments](https://www.cheshirewestandchester.gov.uk/design-code/4-public-space/4-5-allotments-orchards-and-community-gardening).
 
-Выбирайте эту группу только там, где есть живое место для наблюдения. Не создавайте декоративный знак о птицах на пустой площадке.
+## 27. Observing nature
 
-* Сначала уточните, какие виды и сезонные изменения можно наблюдать. Используйте местные записи, беседы со знающими жителями и сведения специалистов.
-* Проложите тихий путь и одно или несколько мест остановиться вне уязвимого участка. Небольшой настил или смотровое место нужны лишь там, где грунт и право позволяют, а ход иначе портит растения.
-* Дайте короткую табличку о том, что человек действительно видит здесь. Меняйте сведения, если среда изменилась. Экран не обязателен.
-* Не подсвечивайте всю природную зону ради прогулки и не ставьте мебель вплотную к гнёздам. Разведите тихое наблюдение и шумную игру.
+Find out what species and seasonal changes people can actually observe. Use local records, knowledgeable residents, and specialists. Provide a quiet path and stopping places away from sensitive habitat. A short boardwalk or viewpoint may help where the ground and rights permit it and foot traffic would otherwise harm vegetation.
 
-Основа: [план парка High Rock, Нью-Йорк, тропы, знаки и среда обитания](https://www.nycgovparks.org/download/high-rock-park-conceptual-plan-final.pdf), [парк штата Нью-Йорк, места наблюдения за птицами](https://parks.ny.gov/documents/inside-our-agency/MasterPlans/MoreauLakeStatePark/MoreauLakeChptFour.pdf).
+Use brief signs on what visitors can see. Update them as conditions change. Separate observation from noisy play and shield habitats from unnecessary light or crowds.
 
-## 28. Искусство в повседневном месте
+References [New York City, High Rock Park plan](https://www.nycgovparks.org/download/high-rock-park-conceptual-plan-final.pdf), [New York State Parks, Moreau Lake](https://parks.ny.gov/documents/inside-our-agency/MasterPlans/MoreauLakeStatePark/MoreauLakeChptFour.pdf).
 
-Постоянное и сменное искусство требует места, права на поверхность и человека, который отвечает за сохранность. Выставка как разовое событие уже есть в группе 7.
+## 28. Public art in everyday places
 
-* Выберите стену, ограждение, торец или площадь по обзору и назначению. Не закрывайте адреса, окна, входы, знаки и обзор у перехода.
-* Для сменных работ дайте простую раму, стенд или место крепления, сроки показа и хранение. Для постоянной работы задайте материал, очистку и порядок ремонта.
-* Опишите открытый выбор художников или местных авторов, оплату, права на изображение и участие жителей без принуждения к одному стилю.
-* Если работа светится или реагирует на движение, проверьте питание, свет в окнах, работу ночью и обычный вид при отключении. Не подменяйте опасный переход красивым рисунком.
+Select walls, fences, blank elevations, or squares based on visibility and function. Keep addresses, windows, entries, crossing sightlines, and signs clear. For temporary works, specify fixings, display periods, and storage. For permanent works, specify materials, cleaning, and repair.
 
-Основа: [Нью-Йорк, городская программа временного искусства на улицах](https://www.nyc.gov/html/dot/html/pedestrians/dotart.shtml), [национальное руководство Англии, искусство как часть общего места](https://www.gov.uk/government/publications/national-design-guide/national-design-guide-accessible-version).
+Define artist selection, fees, image rights, and how residents can participate. For interactive or light-based work, check power, night operation, spill into homes, and appearance when switched off. Address defects in the nearby route through the route design.
 
-## 29. Праздничное оформление
+References [New York City, DOT Art](https://www.nyc.gov/html/dot/html/pedestrians/dotart.shtml), [England, National Design Guide](https://www.gov.uk/government/publications/national-design-guide/national-design-guide-accessible-version).
 
-Праздник меняет внешний вид места ненадолго. Сначала обеспечьте обычную работу площади и входов, затем предусмотрите безопасную смену оформления без ежегодной переделки покрытия и фасада.
+## 29. Seasonal and holiday decoration
 
-* Наметьте места для съёмного света, украшений у входов и небольших местных праздников. Выберите цвет и темы с учётом истории и жителей, не копируйте один набор для любого города.
-* Для магазина или общественного здания предусмотрите сменную часть витрины и входа. Отдельно покажите обычный вид и праздничный вид, чтобы после снятия украшений вход оставался ясным и аккуратным.
-* Покажите точки крепления, питание, вес, высоту, работу при ветре и снеге, доступ для монтажа и безопасное снятие. Не крепите украшения к чужому фасаду или столбу без согласия владельца.
-* Сохраните видимость дорожных знаков, адресов, выходов и проходов. Свет не должен слепить водителей или светить в жильё.
-* Назначьте хранение, ежегодную проверку, время включения и снятия. Праздничный рынок планируйте по группе 23, а большое событие по группе 7.
+Keep entrances and ordinary square uses working. Plan removable lighting, entry displays, and locally appropriate designs. Show the normal and decorated frontage so it works between events. Check fixings, electrical supply, weight, height, wind, snow, installation access, and safe removal. Obtain permission for private facades and street poles.
 
-Основа: [Нью-Йорк, порядок временного праздничного света на уличных опорах](https://www.nyc.gov/html/dot/html/infrastructure/streetlights.shtml), [Лондон, общедоступность площади при временных событиях](https://www.london.gov.uk/publications/public-london-charter). Это примеры управления, не разрешение ставить свет в другой стране.
+Keep signs, addresses, exits, and paths visible. Avoid glare into homes and drivers' sightlines. Assign storage, safety checks, and hours of operation. See group 23 for markets and group 7 for larger events.
 
-## 30. Водная игра в жару
+References [New York City, streetlights and temporary decorations](https://www.nyc.gov/html/dot/html/infrastructure/streetlights.shtml), [London, Public London Charter](https://www.london.gov.uk/publications/public-london-charter).
 
-Это не фонтан для вида и не отвод дождя из группы 10. Водная игра нужна людям лишь там, где бывает жара, есть подходящая площадка, сеть воды и ежедневное содержание.
+## 30. Water play in hot weather
 
-* Сравните водную игру с тенью, питьевой водой и простой игрой без воды. Выбирайте её, если она добавляет пользу, которую нельзя получить меньшим уходом.
-* Дайте нескользкую доступную площадку, место для сопровождающих и отвод воды без луж. Не смешивайте игровой контур с грязным стоком с дороги.
-* Предусмотрите управление подачей воды, очистку, местные требования к качеству, сезон открытия и закрытия. При отключении площадка должна оставаться безопасной.
-* Покажите путь к туалету и месту переодеться, если это нужно масштабу использования. Не обещайте работу в холодный сезон.
+Compare accessible water play with shade, drinking water, and dry play. Choose it when demand, water supply, space, and daily care support it. Use a slip-resistant surface and drainage without puddles. Provide places for caregivers. Keep the play system apart from road runoff.
 
-Основа: [Нью-Йорк, работа уличных распылителей в жару](https://portal.311.nyc.gov/article/?kanumber=KA-03015), [Нью-Йорк, сокращение расхода воды кнопкой и таймером](https://www.nyc.gov/html/dep/html/press_releases/17-075pr.shtml). Санитарные требования и сети проверяйте для своего места.
+Set supply controls, cleaning, applicable water-quality checks, and open and closed seasons. Keep the area usable safely when shut off. Show toilets and changing facilities where the project's scale calls for them.
 
-## 31. Свободная площадь без программы
+References [New York City, spray showers](https://portal.311.nyc.gov/article/?kanumber=KA-03015), [New York City, water-saving spray shower controls](https://www.nyc.gov/html/dep/html/press_releases/17-075pr.shtml).
 
-Оставьте место, где можно быть без билета, заказа и записи. Группа 7 отвечает за назначенные события, группа 23 за рынок, а эта группа за обычные дни.
+## 31. Public squares on ordinary days
 
-* Покажите незанятую часть площади на схеме обычного дня и на схеме события. Считайте свободный проход и доступ к входам в обоих случаях.
-* Используйте переносные стулья, столы или лёгкие элементы игры, когда за ними есть уход и хранение. Не заставляйте всю площадь постоянными предметами.
-* Разведите спокойное пребывание, короткую игру и сквозное движение по реальным размерам. Если место тесное, выберите два совместимых занятия вместо обещания всего сразу.
-* Определите правила бесплатного доступа и долю времени, когда место может занять платное событие. Сведения о режиме должны быть видны на месте.
+Keep room to visit without a ticket, purchase, or reservation. Map the free area, through-route, and approaches to doors for both ordinary days and events. Consider movable chairs, tables, or light play equipment if storage and care are available.
 
-Основа: [Лондон, правила доступа и временного занятия общего места](https://www.london.gov.uk/publications/public-london-charter), [национальное руководство Англии о гибких площадях](https://www.gov.uk/government/publications/national-design-guide/national-design-guide-accessible-version).
+Allocate room for rest, short play, and through movement using actual dimensions. When space is limited, choose compatible activities. State free access rules and when paid events can occupy part of the square.
 
-## 32. Раздельный сбор отходов
+References [London, Public London Charter](https://www.london.gov.uk/publications/public-london-charter), [England, National Design Guide](https://www.gov.uk/government/publications/national-design-guide/national-design-guide-accessible-version).
 
-Не прячьте нужную людям услугу в общем слове «хозяйство». Покажите её как путь и место, которые работают каждый день.
+## 32. Waste separation
 
-* Нанесите действующие места сбора и путь к ним от жилых входов. Отдельно покажите подъезд машины и место для её работы.
-* Сверьте с оператором, какие виды отходов он действительно вывозит раздельно. Только после этого назначайте ёмкости, подписи и порядок вывоза.
-* Проверьте свет, крышки, ровный подход, уборку снега и чистоту рядом с площадкой. Сохраняйте обзор у переходов и въездов.
-* Назовите владельца площадки, того, кто убирает её, и способ сообщить о переполнении. Не назначайте нового ответственного по близости контейнера к дому.
+Map existing collection points, walking routes from entrances, and separate truck access and maneuvering area. Confirm what the operator actually collects separately before assigning containers, signs, and schedules. Check lighting, lids, even surfaces, snow clearance, cleanliness, and sightlines. Record who owns and cleans the site and how people can report overflow.
 
-Основа для проверки: местные правила благоустройства, территориальная схема обращения с отходами и действующие санитарные правила. Пункт из одного города не переносите в другой.
+Check the local public-realm rules, waste collection plan, and sanitary requirements.
 
-## 33. Проход во время работ
+## 33. Access during construction
 
-Временный путь нужен людям с первого дня стройки, а не после её окончания. Эта группа описывает этап работ, а не постоянную замену пешеходной сети из группы 2.
+Phase work so closing one section leaves a route to homes, stops, and essential services. On each phase plan, show fences, step-free detours, crossings, lighting, signs, and when they apply. Keep excavation material off neighboring sidewalks and protect roots and active utilities. After work, reinstate disturbed ground and permanent signs, check surface levels, and assign acceptance.
 
-* Разбейте работы на участки так, чтобы закрытие одного не отрезало входы, остановку или нужную услугу.
-* На схеме каждого этапа покажите ограждение, доступный обход, переходы, свет и указатели с реальным временем действия.
-* Предусмотрите вывоз грунта без грязи на соседнем тротуаре, защиту корней и действующих сетей.
-* После работ восстановите всю нарушенную площадь, проверьте ровность покрытия и верните постоянные указатели. Назначьте того, кто принимает результат.
+Check local street works requirements and the road and utility owners' conditions.
 
-Основа для проверки: правила земляных работ и благоустройства нужного города, условия владельца дороги и сетей. Не используйте зарубежную схему временного движения как местное разрешение.
+## Choosing street furniture and equipment
 
-## Как выбирать малые формы и оборудование
+Choose items for the activity they support and for a site that can accommodate them. Compare benches with backs, chairs, leaning supports, and seats on planting edges by time spent, ability to rise, maintenance, and winter use. Compare trees, canopies, and shelters for shade and check roots, snow, wind, fire access, visibility, and permission.
 
-Малая форма не образует группу сама по себе. Подписывайте на плане занятие, которому она помогает, и показывайте предмет лишь при доказанном месте. Среди возможных форм есть лавки, отдельные стулья, опоры для короткого отдыха, общие столы, навесы, беседки, стойки для велосипедов, прилавки, небольшие павильоны, стенды, питьевые краны, свет и игровые детали. Они могут работать вместе, но не обязаны быть в одном проекте.
+Size tables for the intended users and activities, including wheelchair clearance. Consider simple hands-on play or interpretation where children of different abilities can use it. Set material, life span, cleaning, repair, and storage before picking a finish. Show the everyday layout and a seasonal layout where equipment moves.
 
-* Сравните разные способы сидеть: лавка со спинкой, отдельный стул, опора для короткой остановки, сидячий край клумбы. Выбирайте по возрасту, времени пребывания, возможности встать, уходу и зиме.
-* Сравните тень от дерева, навеса у здания и отдельного укрытия. Проверьте корни, снег, ветер, пожарный проезд, видимость и право крепить к фасаду.
-* Для работы, еды, игры и продажи нужны разные столы и высоты. Не называйте любой стол универсальным. Проверьте место для кресла и путь вокруг.
-* Для игры и знакомства с местом рассмотрите предмет, которым можно пользоваться руками без телефона и сложного ухода. Проверьте доступ детей с разными возможностями, шум и сохранность деталей.
-* Выбирайте материал, срок службы, способ очистки, замены и хранения раньше цвета. Нарисуйте обычный день и сезонный режим, если предмет меняет положение.
+References [New York City, street furniture](https://www.nyc.gov/html/dot/html/infrastructure/streetfurniture.shtml), [Richmond, Public Space Design Guide](https://www.richmond.gov.uk/public_space_design_guide).
 
-Основа: [город Нью-Йорк, виды уличной мебели и общий вид улицы](https://www.nyc.gov/html/dot/html/infrastructure/streetfurniture.shtml), [город Ричмонд, разделы о мебели, свете и местном характере](https://www.richmond.gov.uk/public_space_design_guide). Руководства полезны для выбора формы, но не заменяют местные правила и расчёт места.
+## Using the catalog
 
-## Как выбрать из каталога
-
-Составьте для каждого места короткую запись: существующая функция, подтверждённая проблема, нужный маршрут, свободное место, право на землю, вариант решения и его уход. Сравните не более двух сильных вариантов, если выбор действительно есть. Откажитесь от приёма, который красиво выглядит, но лишает место нужного занятия, не помещается или не имеет ответственного. Одна группа может содержать много точных мер, а одна точная мера может связывать несколько групп. На сайте или в документе выберите понятную главную группу, не дублируйте карточку.
+For each place, record the current use, confirmed problem, route needed, space, land rights, feasible option, and upkeep. When there is a genuine choice, compare up to two strong options. Keep a clear home for each measure on a website or in a document, with cross-links when it serves more than one activity.

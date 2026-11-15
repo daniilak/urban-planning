@@ -1,20 +1,20 @@
-# Проверка результата
+# Plan review
 
-Читайте перед публикацией, передачей заказчику или заявлением о готовности.
+Read before publication, handover, or declaring a plan ready.
 
-1. Граница и цель понятны. План охватывает всю выбранную территорию, а не только места с фотографиями. Для каждой части видны нужные действия и связи с соседями.
-2. Проверены все подходящие [группы занятий](intervention-catalog.md). У каждой выбранной группы есть несколько связанных действий или ясная причина оставить лишь одно. Нет групп, созданных только из места снимка или ради числа карточек. Повседневная встреча не подменена редким событием.
-3. Каждая активная мера называет место и действие. Число и форма опираются на исходный контур или явно названы проектным допущением. Проверка места не выдана за готовое улучшение. Существующее, рассчитанное и предложенное имеют разные обозначения.
-4. Пешая сеть не перескакивает неизвестные разрывы. Центр здания не подменяет вход. Общая модель высот не подменяет обмер у порога. Рисунок группы не назван фотографией построенного объекта.
-5. Новая функция не уничтожает прежнюю без осознанной замены. Проходы, пожарный доступ, доставка, снег, отходы, тень и вода не противоречат друг другу на карте.
-6. Для каждой важной меры есть хозяин, порядок ухода, зависимости и возможные ограничения земли и сетей. Источники зарубежных примеров не подменяют местное право.
-7. Житель без подготовки понимает, что изменится и где. Текст краток и предметен. Для сайта проверьте [совпадение карты и перечня, фотовиды и основные переходы](public-site.md).
-8. По карте видно, из каких частей района можно дойти до нужных мест. Проверены ступени, часы работы и плата. Укажите, кому польза остаётся недоступной, и исправьте план либо назовите причину. Детские и подростковые места не отданы только самой громкой группе.
-9. Проверены жаркие и шумные места, вечерний путь, сильный дождь и зимнее использование там, где это важно. Для защиты от жары указаны действительно открытые места и доступный путь. Фонарь не назван единственным решением проблемы безопасности.
-10. Для важной меры указаны подтверждённое исходное положение, необходимые замеры до работ и способ проверить пользу после открытия. Предложенный ответственный не назван согласившимся без подтверждения. Если место не работает, предусмотрено, кто и как меняет его устройство или режим.
-11. Если жители гуляют с собаками, план учитывает их пути, уборку и местные правила. Отдельная площадка не вытесняет детскую игру, зелень или единственное тихое место без обоснования.
-12. Очередь работ не закрывает единственный доступный путь без временной замены. Для каждого этапа показан проход к домам, остановке и нужным услугам, в том числе для человека на кресле.
-13. Подвалы не названы укрытиями без подтверждения. Действующие места, помещения для возможного приспособления и обычные подвалы разделены. Учтены права, состояние, затопление, входы, доступ и ответственная служба. В открытой части нет неразрешённых служебных сведений.
-14. Указаны настоящие авторы и исполнители с их ролями. Если предложен конкурс, видны его задача, участники, жюри, решение и путь к реализации. Табличка на построенном месте и страница проекта не приписывают людям чужую работу и не обещают невыполненное.
+1. The boundary and purpose are clear. Every part of the study area is covered, including places without photos. The actions and connections to nearby places are visible.
+2. Relevant [activity groups](intervention-catalog.md) have been checked. Each group has related measures or a documented reason for one measure. Group by activity and keep everyday gathering possible between events.
+3. Every active measure identifies a place and an action. Dimensions and shapes come from mapped geometry or a stated assumption. Distinguish surveys from interventions and label existing, calculated, and proposed features.
+4. The walking network uses verified links and actual entrances. Thresholds have measurements appropriate to their scale. Keep rendered and built views distinguishable.
+5. Changes account for existing uses. Check for conflicts among routes, emergency access, deliveries, snow, waste, shade, and water.
+6. Important measures have a proposed operator, maintenance plan, dependencies, and a record of land and utility constraints. Verify local law separately from precedents.
+7. A reader can quickly see what is proposed and where. On a website, check [the map and list, photo comparisons, and navigation](public-site.md).
+8. Check access from different parts of the area, including steps, hours, and fees. Identify groups still lacking access and revise or document the reason. Check whose needs shape spaces for children and teenagers.
+9. Where relevant, check heat, noise, evening travel, heavy rain, and winter access. Confirm accessible routes to open cooling facilities. Assess what helps people feel safe in addition to lighting.
+10. Each important measure has a documented baseline, remaining pre-work measurements, and a way to check benefit after opening. Confirm who has accepted each role and who can adjust operations if the measure underperforms.
+11. Where residents walk dogs, account for routes, cleaning, and local rules. Check what activities a proposed dog area would displace.
+12. Each construction phase retains a step-free route to homes, transit, and essential services. Show any temporary alternative on the map.
+13. Distinguish confirmed shelters, candidate conversions, and ordinary basements. Confirm rights, condition, flooding, entrances, access, and the responsible authority. Publish only information permitted for release.
+14. Give people and organizations their actual roles. Where a competition is part of the project, explain the brief, participants, jury, decision, and route to implementation. Check credits and claims on the page and any plaque.
 
-Различайте концепцию для обсуждения, задание на проектирование и утверждаемую документацию. Концепцию можно передать как предложение с источниками и открытыми условиями. Не называйте её разрешением на строительство. Соберите неизвестные обмеры, сети, права и согласования в одном месте, а не повторяйте их у каждой меры.
+Distinguish a concept for discussion, a design brief, and approved construction documentation. A concept can be handed over with sources and open conditions. Collect unresolved survey, utility, property, and approval issues together.

@@ -1,28 +1,28 @@
-# Конкурс и сведения об авторах
+# Design competitions and credits
 
-Читайте, когда заказчик готовит конкурс, передачу проекта в работу или публичное описание уже сделанного места. Конкурс нужен для выбора сильного решения, а не как украшение готового заказа. Если важны только обычные малые работы и сравнивать замыслы не требуется, не навязывайте отдельный конкурс.
+Read when a client is preparing a competition, taking a project into delivery, or publishing the history of a completed place. A design competition makes sense when choosing among concepts will improve the result.
 
-## До объявления
+## Before announcement
 
-* Назовите заказчика, владельца участка, предмет конкурса и следующую стадию. Различайте конкурс замысла, договор на проектирование и договор на строительство. Победа в первом не означает автоматического права на остальные.
-* Дайте участникам одинаковую основу: границу, права и ограничения, существующие объекты, данные о людях и путях, бюджетный предел или порядок его расчёта, требования к уходу. Не просите точный строительный чертёж там, где нет обмеров и сетей.
-* Заранее опубликуйте, кто может участвовать, сроки вопросов и подачи, состав и правила работы жюри, признаки оценки, награды и оплату подробной работы финалистов. Укажите, будут ли работы анонимными до решения жюри и как исключают личную заинтересованность.
-* Назовите, кто владеет правами на рисунки и текст, какие работы можно показать публике, кто дорабатывает победивший замысел и что произойдёт, если его не удастся выполнить. Не обещайте строительство, если деньги и законный путь к договору ещё не определены.
-* Если участок включает защитное сооружение, не выдавайте участникам и публике служебные планы, входы и порядок доступа. Для конкурса готовьте только разрешённую к раскрытию часть задания.
-* Дайте жителям возможность сообщить о повседневных нуждах до задания и обсудить варианты после раскрытия авторов. Их отзывы не подменяют техническую проверку и решение жюри.
+- Identify the client, site owner, subject of the competition, and next stage. Distinguish a concept competition, a design contract, and a construction contract. Explain how the later contracts will be awarded.
+- Give teams the same base information, including boundary, rights and constraints, existing features, observations about users and routes, budget or cost method, and maintenance requirements. Set the expected level of design to match the survey and utility information available.
+- Announce eligibility, question and submission deadlines, jury membership and procedure, assessment criteria, prizes, and compensation for finalists. State how anonymity and conflicts of interest will be handled.
+- Specify who owns the rights to drawings and text, which entries may be shown, who can develop the selected design, and what happens if delivery is infeasible. Tie public delivery commitments to funding and a valid contracting route.
+- Where a site includes an emergency shelter, use the material authorized for release in the brief. Keep restricted plans, entrances, and access procedures out of it.
+- Let residents explain daily needs before the brief and discuss options after anonymity ends. Retain independent technical review and the jury's decision-making role.
 
-## После решения
+## After the decision
 
-* Опубликуйте задание, состав жюри, список участников и команд, их разрешённые к показу работы, итоговый протокол и понятные причины выбора. Покажите не только победителя, если правила и права авторов позволяют.
-* Отделите конкурсный замысел от согласованного проекта и построенного места. Запишите, что изменили после конкурса и почему, кто принял изменение и кто отвечает за результат.
-* Для публичного заказчика отдельно укажите законный способ выбора исполнителей и ссылки на документы о закупке или договоре, когда их можно открыть. Красивый конкурсный сайт не заменяет эти сведения.
+- Publish the brief, jury, teams, entries cleared for display, decision record, and reasons. Include other entries where the rules and rights permit.
+- Distinguish the competition concept, agreed project, and completed place. Record changes, reasons, who approved them, and who is responsible for the outcome.
+- For a public client, state the lawful process for selecting contractors and link to procurement or contract records that can be shared.
 
-## Табличка и страница проекта
+## On-site plaque and project page
 
-На готовом месте предложите короткую табличку. Достаточно названия, года, заказчика, авторов замысла и проекта, строителя и кода для полной истории. Рядом с кодом дайте обычный адрес страницы: важные сведения должны читаться без телефона. Если участников много, на табличке укажите команды, а полные роли раскройте на странице.
+For a completed place, consider a short plaque with the name, year, client, concept and design authors, builder, and a link to the full history. Give a readable web address alongside any QR code. Where many people were involved, credit teams on site and give detailed roles on the page.
 
-На странице сохраните проверенные имена и роли: кто заказал, собрал данные, работал с жителями, предложил замысел, проектировал, строил, проверял и содержит место. Укажите участников конкурса, жюри, выбор, этапы и отличие построенного от конкурсной работы. Не называйте всех жителей авторами из-за одного опроса. Имя человека и его работу публикуйте на законном основании с учётом согласия, договора и авторских прав. Сведения о защитных объектах не добавляйте на табличку и страницу без разрешения ответственного органа.
+Name the people and organizations that commissioned, surveyed, consulted, proposed, designed, built, verified, and maintain the place. Explain competition participation, the jury decision, phasing, and departures from the selected entry. Describe what residents actually contributed. Check consent, privacy, contracts, and copyright before publishing identities and work. Release information on emergency shelters only as permitted by the authority.
 
-Если заказчик просит подпись автора сайта, поставьте в футере «Автор сайта» с указанным именем и ссылкой. Роли участников мастер-плана укажите в материалах проекта, авторов и источники снимков — рядом со снимками.
+If requested, put “Website by” and the supplied name and link in the footer. Credit planning and design roles in the project materials and photo authors and sources next to the images.
 
-Для проверки порядка конкурса: [Международный союз архитекторов](https://www.uia-architectes.org/en/commission/international-architecture-competitions_uia/) описывает открытые правила, жюри, права авторов, отчёт и выставку работ. [Документы конкурса парка «Зарядье» на сайте Москвы](https://stroi.mos.ru/uploads/media/main_image/0001/44/c38b8c486f9564abfb62a1d69c93f5db327341cb.pdf) показывают задание, состав жюри, сроки, отбор команд и правила выбора. Это примеры устройства конкурса, а не готовый правовой порядок для нового заказчика.
+References [International Union of Architects, international architecture competitions](https://www.uia-architectes.org/en/commission/international-architecture-competitions_uia/) and [Moscow, Zaryadye Park competition documents](https://stroi.mos.ru/uploads/media/main_image/0001/44/c38b8c486f9564abfb62a1d69c93f5db327341cb.pdf). Use them for competition procedures and verify local legal requirements separately.
